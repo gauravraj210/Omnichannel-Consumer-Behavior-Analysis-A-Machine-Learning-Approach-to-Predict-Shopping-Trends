@@ -1,0 +1,1001 @@
+Age,Gender,Income Level,Location,Purchase Frequency,Avg Spend (INR),Product Category,Quantity Purchased,Previous Channel,Loyalty Membership,Payment Method,Discounts Used,Time of Purchase,Seasonality,Proximity to Store (km),Delivery Time (days),Device Ownership,Internet Access,Tech Savviness,Trust Level,Current Promotions,Channel Preference
+35,Male,Low,Urban,3,452,Home Appliances,10,Offline,TRUE,Credit Card,TRUE,Evening,Holiday Weekend,3,7,FALSE,TRUE,High,Low,Online Only,Offline
+37,Female,High,Rural,4,149,Electronics,7,Offline,TRUE,Debit Card,FALSE,Evening,Black Friday,15,5,TRUE,TRUE,Low,High,Online Only,Online
+47,Female,High,Urban,3,757,Home Appliances,8,Offline,FALSE,Digital Wallet,FALSE,Evening,Summer Sale,4,2,TRUE,FALSE,High,Medium,Online Only,Offline
+18,Female,Low,Rural,16,545,Electronics,10,Online,TRUE,Debit Card,FALSE,Evening,Black Friday,3,1,TRUE,TRUE,High,Medium,Offline Only,Offline
+52,Male,Medium,Suburban,5,219,Electronics,9,Offline,TRUE,Digital Wallet,FALSE,Evening,New Year Sale,15,1,FALSE,TRUE,High,Low,Offline Only,Offline
+22,Female,Medium,Rural,18,803,Fashion,9,Online,FALSE,Debit Card,TRUE,Afternoon,Regular,11,5,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+45,Male,Medium,Rural,9,114,Fashion,2,Offline,TRUE,Debit Card,FALSE,Morning,Regular,10,3,TRUE,FALSE,Low,Medium,Offline Only,Online
+46,Female,High,Suburban,3,940,Electronics,6,Offline,TRUE,Debit Card,TRUE,Afternoon,Black Friday,2,1,FALSE,FALSE,Low,Low,Offline Only,Online
+24,Female,Medium,Rural,13,941,Electronics,4,Online,TRUE,UPI,TRUE,Afternoon,Holiday Weekend,12,5,TRUE,FALSE,Low,Low,Offline Only,Offline
+51,Female,High,Suburban,20,928,Home Appliances,2,Online,FALSE,Cash,TRUE,Morning,Summer Sale,11,5,FALSE,TRUE,High,Low,Offline Only,Offline
+52,Male,High,Rural,11,391,Electronics,4,Online,TRUE,Cash,TRUE,Evening,Black Friday,15,7,TRUE,FALSE,High,High,Offline Only,Offline
+34,Female,Medium,Urban,13,856,Groceries,5,Offline,TRUE,Credit Card,FALSE,Evening,Holiday Weekend,3,7,FALSE,FALSE,High,High,Offline Only,Offline
+46,Male,High,Rural,16,812,Home Appliances,10,Online,FALSE,Cash,FALSE,Morning,Summer Sale,6,2,FALSE,FALSE,Low,Low,Online Only,Offline
+44,Female,High,Suburban,8,937,Fashion,9,Offline,FALSE,Digital Wallet,TRUE,Morning,Summer Sale,5,5,FALSE,FALSE,High,High,Online Only,Online
+24,Female,Low,Suburban,9,605,Electronics,10,Offline,FALSE,Digital Wallet,FALSE,Morning,Cyber Monday,5,5,FALSE,TRUE,Low,High,Offline Only,Offline
+45,Female,Medium,Urban,14,690,Beauty Products,2,Offline,FALSE,UPI,FALSE,Afternoon,Summer Sale,14,4,FALSE,TRUE,Low,Medium,Online Only,Offline
+23,Female,High,Urban,5,396,Groceries,3,Online,FALSE,Digital Wallet,TRUE,Evening,Cyber Monday,14,1,TRUE,FALSE,Medium,Low,Online Only,Offline
+29,Female,Low,Rural,4,581,Fashion,5,Offline,FALSE,Credit Card,FALSE,Morning,Regular,13,8,TRUE,TRUE,Low,Low,Offline Only,Online
+30,Male,Medium,Suburban,17,876,Home Appliances,7,Offline,FALSE,Debit Card,TRUE,Morning,Summer Sale,13,4,TRUE,TRUE,Medium,High,Offline Only,Offline
+28,Female,Low,Suburban,17,411,Furniture,5,Offline,FALSE,Debit Card,FALSE,Evening,Cyber Monday,7,8,TRUE,FALSE,Medium,Medium,Online Only,Online
+51,Male,Low,Rural,19,130,Groceries,4,Online,TRUE,Credit Card,TRUE,Morning,Cyber Monday,15,5,TRUE,FALSE,Medium,Low,Offline Only,Offline
+42,Female,Medium,Urban,16,785,Fashion,1,Online,TRUE,UPI,TRUE,Afternoon,Regular,13,4,TRUE,TRUE,Medium,Low,Offline Only,Online
+27,Female,High,Rural,8,211,Furniture,9,Online,FALSE,Debit Card,TRUE,Morning,Cyber Monday,2,2,TRUE,TRUE,Medium,Low,Offline Only,Offline
+30,Female,High,Rural,16,601,Furniture,3,Online,TRUE,Debit Card,TRUE,Morning,New Year Sale,5,4,FALSE,TRUE,Medium,High,Offline Only,Offline
+21,Male,Medium,Suburban,13,644,Electronics,3,Online,TRUE,Cash,TRUE,Afternoon,New Year Sale,9,5,FALSE,FALSE,Low,Low,Online Only,Online
+35,Female,Low,Rural,7,732,Groceries,2,Offline,TRUE,UPI,TRUE,Evening,Summer Sale,10,2,TRUE,TRUE,Low,Low,Online Only,Online
+26,Male,Medium,Urban,6,940,Home Appliances,9,Online,TRUE,Credit Card,FALSE,Evening,Cyber Monday,4,8,FALSE,TRUE,High,High,Offline Only,Online
+38,Male,Low,Rural,15,172,Fashion,10,Online,FALSE,UPI,TRUE,Afternoon,Regular,4,4,TRUE,TRUE,High,High,Offline Only,Offline
+28,Male,Medium,Suburban,10,292,Fashion,1,Offline,TRUE,Credit Card,TRUE,Morning,Holiday Weekend,3,2,FALSE,FALSE,Low,Low,Online Only,Online
+25,Female,High,Urban,4,321,Furniture,5,Online,FALSE,UPI,TRUE,Evening,Black Friday,8,8,TRUE,TRUE,Medium,High,Online Only,Online
+30,Male,Medium,Urban,12,531,Electronics,8,Offline,TRUE,Debit Card,FALSE,Afternoon,Cyber Monday,15,4,FALSE,FALSE,Low,Medium,Offline Only,Offline
+32,Male,High,Rural,18,397,Beauty Products,10,Offline,TRUE,Debit Card,FALSE,Afternoon,Summer Sale,2,3,TRUE,FALSE,High,Low,Online Only,Offline
+32,Female,High,Rural,13,287,Fashion,3,Offline,TRUE,UPI,FALSE,Morning,Regular,5,4,TRUE,TRUE,Low,High,Offline Only,Online
+23,Male,High,Rural,8,498,Electronics,8,Offline,FALSE,Cash,FALSE,Afternoon,Summer Sale,6,7,TRUE,FALSE,Low,Low,Offline Only,Online
+29,Female,Medium,Rural,9,765,Home Appliances,1,Online,TRUE,Digital Wallet,TRUE,Evening,New Year Sale,7,3,FALSE,FALSE,High,Low,Offline Only,Online
+31,Male,Medium,Suburban,16,856,Home Appliances,7,Offline,FALSE,Digital Wallet,FALSE,Afternoon,Regular,15,2,TRUE,FALSE,Medium,Low,Offline Only,Offline
+52,Male,High,Urban,19,915,Beauty Products,6,Offline,TRUE,Credit Card,FALSE,Morning,Cyber Monday,15,7,FALSE,FALSE,Medium,Low,Offline Only,Online
+45,Female,Medium,Suburban,20,892,Groceries,10,Online,TRUE,Debit Card,TRUE,Evening,Black Friday,12,6,TRUE,TRUE,Medium,High,Offline Only,Online
+24,Male,Medium,Suburban,18,790,Groceries,9,Offline,FALSE,UPI,FALSE,Morning,Black Friday,2,4,FALSE,FALSE,Low,Low,Online Only,Offline
+52,Male,High,Urban,3,163,Fashion,8,Online,FALSE,UPI,FALSE,Evening,Summer Sale,13,4,TRUE,FALSE,High,Medium,Offline Only,Online
+46,Female,Low,Suburban,6,605,Home Appliances,7,Online,FALSE,Credit Card,FALSE,Evening,Black Friday,8,2,TRUE,FALSE,High,Medium,Online Only,Online
+47,Female,Medium,Urban,15,797,Fashion,5,Offline,FALSE,Credit Card,FALSE,Evening,Regular,2,1,TRUE,FALSE,Low,Medium,Offline Only,Online
+21,Female,Medium,Rural,12,416,Fashion,5,Online,FALSE,Digital Wallet,FALSE,Morning,Regular,9,8,TRUE,TRUE,Medium,High,Offline Only,Offline
+23,Male,Low,Urban,14,715,Fashion,8,Offline,FALSE,Cash,TRUE,Morning,New Year Sale,9,2,TRUE,FALSE,High,Medium,Offline Only,Online
+28,Male,Medium,Urban,14,523,Home Appliances,6,Online,FALSE,Debit Card,FALSE,Evening,Regular,11,6,TRUE,FALSE,Low,Medium,Online Only,Online
+23,Female,High,Urban,9,875,Fashion,3,Online,TRUE,Credit Card,FALSE,Afternoon,Cyber Monday,1,4,TRUE,TRUE,Low,Low,Online Only,Offline
+23,Female,Medium,Urban,3,858,Furniture,8,Online,TRUE,Debit Card,TRUE,Afternoon,Holiday Weekend,3,1,TRUE,FALSE,Medium,Low,Online Only,Online
+48,Male,Low,Urban,15,372,Groceries,2,Online,FALSE,Debit Card,TRUE,Afternoon,Holiday Weekend,10,5,TRUE,FALSE,Medium,Medium,Online Only,Offline
+52,Male,Low,Urban,10,730,Groceries,6,Offline,TRUE,Debit Card,TRUE,Afternoon,Regular,13,4,FALSE,FALSE,High,Low,Offline Only,Offline
+28,Female,High,Urban,14,319,Beauty Products,1,Online,TRUE,Debit Card,TRUE,Morning,Regular,5,8,FALSE,FALSE,High,High,Online Only,Offline
+45,Male,Low,Urban,15,409,Groceries,1,Online,FALSE,Credit Card,FALSE,Afternoon,New Year Sale,13,3,TRUE,FALSE,Medium,High,Offline Only,Online
+24,Female,Medium,Suburban,20,332,Home Appliances,5,Online,FALSE,Debit Card,FALSE,Evening,Holiday Weekend,12,7,TRUE,FALSE,Low,Medium,Offline Only,Offline
+36,Male,High,Suburban,3,590,Groceries,2,Offline,FALSE,UPI,FALSE,Afternoon,Regular,8,1,FALSE,TRUE,High,Medium,Online Only,Online
+27,Female,Medium,Suburban,3,252,Fashion,8,Online,FALSE,Credit Card,FALSE,Morning,New Year Sale,14,1,TRUE,FALSE,Low,High,Online Only,Online
+49,Female,Low,Urban,10,434,Furniture,7,Offline,FALSE,UPI,FALSE,Morning,Summer Sale,5,7,TRUE,FALSE,Low,Low,Offline Only,Offline
+26,Female,High,Urban,20,399,Fashion,10,Offline,TRUE,Digital Wallet,FALSE,Morning,Black Friday,8,8,FALSE,FALSE,High,Medium,Online Only,Online
+39,Male,Medium,Suburban,17,773,Home Appliances,10,Offline,TRUE,Debit Card,TRUE,Evening,New Year Sale,1,2,TRUE,TRUE,Low,Low,Offline Only,Offline
+37,Male,Low,Rural,4,593,Beauty Products,4,Offline,TRUE,Cash,FALSE,Evening,Summer Sale,6,4,TRUE,TRUE,Low,High,Offline Only,Online
+29,Female,Medium,Rural,18,777,Beauty Products,10,Offline,TRUE,UPI,FALSE,Afternoon,New Year Sale,14,3,FALSE,TRUE,Medium,Low,Offline Only,Online
+22,Male,Medium,Rural,3,461,Fashion,8,Online,TRUE,Cash,TRUE,Afternoon,Cyber Monday,3,3,FALSE,FALSE,High,Low,Offline Only,Online
+51,Female,Low,Rural,5,571,Home Appliances,6,Offline,TRUE,Digital Wallet,TRUE,Evening,Summer Sale,1,7,FALSE,TRUE,Medium,Low,Offline Only,Offline
+31,Female,High,Suburban,7,164,Beauty Products,10,Online,FALSE,Debit Card,TRUE,Morning,Cyber Monday,7,8,TRUE,TRUE,High,Low,Online Only,Offline
+51,Female,Low,Suburban,4,671,Home Appliances,3,Offline,FALSE,Cash,FALSE,Afternoon,Holiday Weekend,13,1,TRUE,TRUE,Low,High,Online Only,Online
+52,Male,High,Suburban,16,948,Home Appliances,1,Offline,FALSE,UPI,FALSE,Morning,New Year Sale,12,5,FALSE,TRUE,High,Low,Online Only,Online
+27,Female,Low,Rural,4,900,Home Appliances,8,Online,TRUE,Credit Card,FALSE,Morning,Regular,12,7,TRUE,TRUE,High,Medium,Offline Only,Offline
+18,Female,Low,Urban,20,903,Groceries,8,Online,TRUE,Debit Card,FALSE,Afternoon,Summer Sale,3,2,FALSE,TRUE,Medium,Low,Offline Only,Online
+49,Male,High,Rural,20,981,Groceries,9,Online,FALSE,UPI,TRUE,Evening,Cyber Monday,1,4,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+24,Male,High,Suburban,9,502,Groceries,2,Offline,FALSE,UPI,TRUE,Afternoon,Summer Sale,5,8,TRUE,FALSE,Medium,High,Online Only,Online
+50,Male,High,Urban,5,366,Beauty Products,7,Online,TRUE,UPI,FALSE,Morning,Holiday Weekend,7,6,TRUE,TRUE,Medium,Medium,Online Only,Offline
+27,Male,Medium,Rural,7,230,Home Appliances,6,Offline,FALSE,Cash,TRUE,Morning,New Year Sale,12,6,FALSE,FALSE,High,High,Online Only,Online
+31,Male,High,Suburban,4,525,Groceries,6,Online,FALSE,Debit Card,TRUE,Morning,Cyber Monday,10,5,TRUE,TRUE,High,High,Offline Only,Online
+41,Female,High,Urban,14,532,Groceries,3,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Regular,1,6,FALSE,FALSE,Low,High,Offline Only,Online
+37,Female,High,Suburban,7,545,Home Appliances,9,Online,TRUE,UPI,FALSE,Morning,Summer Sale,11,1,TRUE,FALSE,High,Low,Offline Only,Online
+26,Male,Medium,Urban,9,863,Electronics,8,Offline,TRUE,UPI,FALSE,Afternoon,Holiday Weekend,1,8,TRUE,FALSE,Medium,Low,Online Only,Offline
+36,Female,Medium,Suburban,19,496,Electronics,6,Online,FALSE,Credit Card,TRUE,Evening,Regular,11,8,FALSE,TRUE,Low,Low,Offline Only,Online
+39,Female,High,Rural,10,767,Groceries,6,Online,TRUE,Digital Wallet,TRUE,Morning,Regular,5,3,FALSE,FALSE,Medium,High,Online Only,Offline
+46,Female,High,Rural,13,499,Groceries,2,Online,FALSE,Credit Card,TRUE,Evening,Cyber Monday,1,2,TRUE,TRUE,Medium,Medium,Online Only,Online
+19,Male,High,Urban,18,208,Home Appliances,1,Online,TRUE,Debit Card,FALSE,Evening,Summer Sale,10,1,TRUE,FALSE,High,Medium,Online Only,Online
+36,Male,Low,Rural,7,665,Beauty Products,2,Online,FALSE,Digital Wallet,FALSE,Evening,Holiday Weekend,9,8,TRUE,FALSE,High,Low,Online Only,Offline
+32,Female,High,Urban,19,227,Fashion,7,Offline,FALSE,Credit Card,FALSE,Afternoon,Cyber Monday,9,1,TRUE,TRUE,High,Medium,Online Only,Online
+25,Male,Low,Rural,10,676,Beauty Products,6,Online,TRUE,Debit Card,TRUE,Afternoon,Holiday Weekend,11,3,FALSE,FALSE,High,Medium,Online Only,Offline
+19,Female,High,Rural,5,723,Furniture,1,Online,FALSE,Credit Card,FALSE,Evening,Holiday Weekend,13,6,FALSE,TRUE,Medium,High,Offline Only,Offline
+22,Male,High,Urban,20,916,Home Appliances,10,Offline,FALSE,UPI,FALSE,Morning,Cyber Monday,3,8,FALSE,TRUE,High,Medium,Online Only,Offline
+41,Female,High,Suburban,12,817,Furniture,2,Offline,FALSE,Cash,TRUE,Afternoon,Holiday Weekend,2,8,TRUE,TRUE,High,Low,Online Only,Offline
+18,Female,Medium,Suburban,6,882,Groceries,2,Offline,FALSE,Credit Card,FALSE,Evening,Holiday Weekend,1,7,TRUE,FALSE,Medium,High,Offline Only,Offline
+18,Male,Medium,Suburban,10,780,Furniture,3,Offline,TRUE,Digital Wallet,TRUE,Afternoon,Regular,9,6,FALSE,FALSE,Medium,Medium,Online Only,Offline
+40,Female,Low,Rural,15,146,Electronics,9,Offline,TRUE,Digital Wallet,FALSE,Morning,Summer Sale,14,7,TRUE,FALSE,Medium,Medium,Online Only,Online
+38,Female,High,Urban,9,575,Electronics,1,Offline,TRUE,Credit Card,TRUE,Afternoon,New Year Sale,6,7,TRUE,FALSE,Medium,Low,Offline Only,Offline
+47,Male,Medium,Rural,11,964,Fashion,10,Offline,FALSE,Credit Card,TRUE,Afternoon,New Year Sale,3,6,FALSE,TRUE,Low,Low,Online Only,Offline
+39,Male,Medium,Rural,9,404,Fashion,2,Offline,FALSE,Credit Card,TRUE,Morning,Black Friday,13,4,FALSE,TRUE,High,Low,Offline Only,Online
+24,Female,Medium,Suburban,4,108,Beauty Products,5,Offline,FALSE,Cash,FALSE,Morning,Summer Sale,3,8,TRUE,TRUE,Low,High,Online Only,Offline
+29,Female,Low,Rural,9,225,Groceries,8,Online,FALSE,Debit Card,FALSE,Evening,Black Friday,7,3,TRUE,FALSE,Medium,Low,Online Only,Offline
+44,Male,High,Suburban,17,337,Beauty Products,6,Online,TRUE,Cash,FALSE,Morning,Holiday Weekend,6,5,TRUE,FALSE,Medium,Medium,Offline Only,Offline
+23,Female,Medium,Suburban,20,658,Fashion,5,Online,TRUE,Credit Card,FALSE,Afternoon,New Year Sale,1,4,FALSE,TRUE,High,High,Online Only,Offline
+32,Male,Low,Rural,9,106,Groceries,4,Online,TRUE,Debit Card,TRUE,Morning,Cyber Monday,3,6,TRUE,FALSE,Low,Medium,Offline Only,Offline
+21,Female,High,Suburban,18,112,Home Appliances,7,Offline,TRUE,Debit Card,TRUE,Morning,Black Friday,1,2,FALSE,TRUE,Low,Low,Offline Only,Offline
+19,Male,Medium,Suburban,16,827,Fashion,3,Online,FALSE,Digital Wallet,TRUE,Evening,Regular,1,7,FALSE,TRUE,Medium,Medium,Online Only,Offline
+23,Female,High,Suburban,15,639,Electronics,4,Online,FALSE,UPI,TRUE,Afternoon,Holiday Weekend,11,4,FALSE,FALSE,High,Medium,Offline Only,Online
+44,Female,Medium,Urban,17,812,Fashion,8,Offline,FALSE,Cash,FALSE,Afternoon,Regular,13,6,TRUE,FALSE,Low,Low,Online Only,Offline
+36,Female,Medium,Suburban,6,216,Groceries,7,Offline,FALSE,Digital Wallet,FALSE,Morning,Black Friday,3,7,FALSE,TRUE,Medium,High,Offline Only,Offline
+52,Male,Low,Rural,14,1000,Groceries,4,Offline,TRUE,Cash,FALSE,Morning,Holiday Weekend,6,2,TRUE,FALSE,Medium,High,Offline Only,Online
+40,Female,High,Rural,15,523,Groceries,9,Offline,TRUE,UPI,TRUE,Morning,Black Friday,2,8,TRUE,TRUE,Medium,Medium,Offline Only,Online
+41,Male,Low,Urban,18,658,Groceries,7,Online,FALSE,Credit Card,FALSE,Evening,New Year Sale,7,7,FALSE,TRUE,Low,High,Online Only,Online
+20,Male,Medium,Rural,13,475,Fashion,5,Offline,FALSE,UPI,TRUE,Afternoon,Holiday Weekend,14,2,TRUE,TRUE,High,Low,Online Only,Online
+25,Female,High,Rural,18,322,Fashion,10,Online,FALSE,Cash,TRUE,Evening,Black Friday,3,3,TRUE,TRUE,Medium,Medium,Offline Only,Offline
+28,Female,Low,Suburban,16,920,Groceries,1,Offline,TRUE,UPI,FALSE,Evening,Holiday Weekend,13,1,FALSE,TRUE,High,Medium,Online Only,Offline
+32,Female,Low,Urban,6,270,Groceries,9,Online,FALSE,Credit Card,FALSE,Morning,Cyber Monday,5,1,FALSE,FALSE,Low,Low,Online Only,Online
+41,Male,Medium,Rural,11,940,Home Appliances,1,Online,TRUE,Cash,FALSE,Morning,Cyber Monday,1,4,TRUE,FALSE,Low,High,Online Only,Offline
+28,Male,High,Urban,3,493,Beauty Products,2,Offline,TRUE,UPI,TRUE,Afternoon,Cyber Monday,9,7,TRUE,FALSE,High,High,Online Only,Offline
+33,Male,High,Suburban,5,969,Electronics,10,Online,FALSE,UPI,TRUE,Morning,New Year Sale,10,4,FALSE,FALSE,Low,Medium,Online Only,Offline
+38,Female,Medium,Suburban,5,293,Electronics,8,Online,FALSE,Digital Wallet,FALSE,Morning,Summer Sale,14,8,FALSE,TRUE,Medium,High,Online Only,Offline
+44,Female,High,Urban,9,173,Fashion,5,Offline,FALSE,Cash,TRUE,Evening,Summer Sale,6,8,TRUE,TRUE,Medium,Medium,Online Only,Online
+32,Female,Low,Suburban,16,433,Home Appliances,10,Online,FALSE,Digital Wallet,FALSE,Afternoon,Holiday Weekend,5,7,TRUE,FALSE,Low,Medium,Online Only,Offline
+49,Female,Low,Suburban,19,897,Home Appliances,1,Online,FALSE,Debit Card,FALSE,Evening,Regular,2,6,FALSE,FALSE,High,High,Online Only,Offline
+23,Male,Low,Urban,7,993,Electronics,6,Online,FALSE,Digital Wallet,TRUE,Evening,Black Friday,15,2,TRUE,FALSE,Medium,Medium,Online Only,Offline
+41,Male,Low,Rural,3,241,Home Appliances,3,Online,FALSE,Debit Card,TRUE,Morning,Cyber Monday,9,5,FALSE,TRUE,Low,High,Online Only,Online
+34,Female,High,Suburban,15,719,Home Appliances,2,Offline,FALSE,Digital Wallet,TRUE,Afternoon,Cyber Monday,9,5,FALSE,FALSE,Low,Medium,Offline Only,Online
+28,Male,Medium,Suburban,8,754,Home Appliances,8,Online,FALSE,Credit Card,FALSE,Evening,Holiday Weekend,1,2,TRUE,TRUE,High,Low,Online Only,Online
+40,Male,Low,Urban,20,854,Beauty Products,5,Online,TRUE,Credit Card,TRUE,Afternoon,New Year Sale,2,5,TRUE,FALSE,Low,Low,Online Only,Online
+31,Male,Low,Suburban,10,197,Groceries,2,Offline,FALSE,Cash,FALSE,Afternoon,New Year Sale,12,7,FALSE,TRUE,Medium,Medium,Offline Only,Offline
+38,Female,Medium,Urban,15,586,Beauty Products,2,Online,FALSE,UPI,FALSE,Morning,Holiday Weekend,13,1,FALSE,TRUE,Low,High,Online Only,Online
+42,Male,Low,Suburban,14,544,Beauty Products,3,Online,FALSE,Digital Wallet,TRUE,Evening,Black Friday,11,2,TRUE,TRUE,High,High,Offline Only,Offline
+39,Female,High,Rural,15,776,Beauty Products,5,Offline,TRUE,Debit Card,TRUE,Evening,Cyber Monday,11,8,FALSE,FALSE,Low,High,Online Only,Offline
+25,Female,High,Urban,4,900,Home Appliances,5,Online,FALSE,UPI,FALSE,Afternoon,Cyber Monday,5,6,FALSE,TRUE,High,Medium,Offline Only,Offline
+48,Female,High,Suburban,9,591,Fashion,5,Offline,FALSE,Cash,FALSE,Afternoon,Regular,3,1,FALSE,TRUE,Medium,High,Offline Only,Offline
+18,Male,High,Suburban,5,422,Electronics,5,Offline,TRUE,Credit Card,TRUE,Evening,Regular,14,8,TRUE,FALSE,Low,Low,Offline Only,Online
+40,Male,Medium,Urban,18,496,Beauty Products,2,Offline,FALSE,Credit Card,TRUE,Evening,Holiday Weekend,2,2,FALSE,FALSE,Low,High,Online Only,Offline
+48,Female,High,Urban,20,179,Fashion,1,Offline,FALSE,Digital Wallet,TRUE,Evening,Summer Sale,15,7,TRUE,FALSE,Low,Low,Offline Only,Online
+41,Female,High,Urban,18,253,Furniture,3,Offline,TRUE,Credit Card,FALSE,Afternoon,Cyber Monday,7,5,FALSE,FALSE,Low,Medium,Online Only,Offline
+49,Male,High,Rural,20,139,Electronics,8,Offline,FALSE,Credit Card,FALSE,Afternoon,Holiday Weekend,3,7,FALSE,FALSE,High,High,Offline Only,Online
+31,Female,Low,Rural,3,695,Electronics,6,Online,FALSE,Credit Card,TRUE,Morning,Regular,11,1,FALSE,TRUE,Low,Medium,Online Only,Online
+23,Male,Low,Rural,15,560,Fashion,4,Offline,FALSE,Credit Card,TRUE,Evening,Summer Sale,9,1,TRUE,TRUE,Medium,Medium,Online Only,Online
+27,Male,Low,Urban,11,211,Groceries,6,Offline,TRUE,Debit Card,TRUE,Morning,Cyber Monday,14,7,TRUE,TRUE,Low,Medium,Offline Only,Offline
+41,Female,High,Suburban,18,384,Electronics,6,Offline,FALSE,Credit Card,TRUE,Afternoon,Holiday Weekend,12,4,TRUE,FALSE,Low,High,Offline Only,Offline
+36,Female,High,Rural,13,668,Home Appliances,8,Online,TRUE,UPI,TRUE,Afternoon,Cyber Monday,12,6,TRUE,FALSE,Low,High,Online Only,Offline
+28,Male,Medium,Suburban,15,669,Electronics,5,Offline,FALSE,Cash,FALSE,Afternoon,Cyber Monday,9,1,TRUE,TRUE,Medium,Low,Offline Only,Online
+26,Male,Low,Suburban,4,709,Electronics,2,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Black Friday,12,4,TRUE,FALSE,High,Medium,Online Only,Online
+20,Female,High,Urban,4,117,Groceries,10,Online,FALSE,Digital Wallet,TRUE,Evening,Holiday Weekend,5,1,TRUE,FALSE,Medium,High,Online Only,Online
+42,Female,Low,Urban,3,157,Beauty Products,10,Offline,TRUE,Debit Card,TRUE,Afternoon,Summer Sale,11,8,TRUE,TRUE,High,Low,Online Only,Offline
+24,Female,Low,Suburban,13,635,Furniture,8,Offline,FALSE,UPI,FALSE,Evening,Regular,15,3,TRUE,TRUE,High,High,Offline Only,Online
+43,Female,Medium,Rural,13,322,Furniture,10,Online,FALSE,Credit Card,FALSE,Morning,New Year Sale,9,3,TRUE,TRUE,High,Low,Online Only,Online
+47,Male,High,Urban,18,354,Home Appliances,2,Online,TRUE,Credit Card,TRUE,Evening,Summer Sale,2,3,TRUE,FALSE,Medium,High,Online Only,Offline
+27,Male,Medium,Suburban,5,881,Groceries,5,Offline,FALSE,UPI,TRUE,Morning,Regular,3,5,FALSE,FALSE,Medium,Low,Online Only,Offline
+26,Male,Low,Urban,18,434,Furniture,3,Online,TRUE,Cash,TRUE,Afternoon,Cyber Monday,4,7,TRUE,FALSE,High,Medium,Online Only,Offline
+47,Male,Medium,Urban,10,686,Home Appliances,7,Online,FALSE,Debit Card,FALSE,Evening,Holiday Weekend,1,4,FALSE,TRUE,Low,High,Offline Only,Offline
+27,Male,High,Rural,18,531,Beauty Products,10,Offline,TRUE,Digital Wallet,TRUE,Afternoon,New Year Sale,14,4,TRUE,TRUE,Medium,Medium,Online Only,Offline
+38,Female,Medium,Suburban,5,581,Beauty Products,7,Online,FALSE,Cash,FALSE,Afternoon,Regular,9,8,TRUE,FALSE,High,High,Offline Only,Online
+41,Female,Medium,Suburban,11,731,Electronics,5,Online,FALSE,UPI,TRUE,Afternoon,New Year Sale,9,1,TRUE,FALSE,Low,High,Offline Only,Online
+21,Female,High,Rural,11,159,Fashion,5,Online,TRUE,Cash,TRUE,Morning,Cyber Monday,8,4,TRUE,TRUE,Low,High,Online Only,Online
+32,Female,Medium,Suburban,8,647,Electronics,1,Offline,FALSE,Debit Card,TRUE,Afternoon,Cyber Monday,2,7,TRUE,TRUE,Low,Low,Offline Only,Offline
+48,Male,High,Urban,17,195,Electronics,5,Online,FALSE,Debit Card,FALSE,Evening,New Year Sale,1,2,FALSE,TRUE,Low,Low,Online Only,Offline
+23,Male,Medium,Urban,11,388,Beauty Products,7,Offline,FALSE,Credit Card,FALSE,Afternoon,Cyber Monday,6,8,TRUE,TRUE,High,High,Online Only,Online
+37,Female,Low,Suburban,9,681,Groceries,5,Online,FALSE,Cash,TRUE,Evening,Black Friday,6,6,TRUE,TRUE,High,Medium,Offline Only,Online
+48,Male,Medium,Suburban,20,105,Furniture,10,Online,FALSE,UPI,TRUE,Morning,Regular,9,1,TRUE,TRUE,Low,High,Offline Only,Online
+46,Male,Low,Rural,5,243,Groceries,7,Online,TRUE,Cash,FALSE,Evening,New Year Sale,11,3,FALSE,FALSE,High,High,Offline Only,Offline
+33,Female,Low,Urban,9,594,Beauty Products,6,Offline,TRUE,Credit Card,TRUE,Morning,Holiday Weekend,14,1,FALSE,TRUE,Low,Medium,Online Only,Offline
+41,Male,Medium,Suburban,14,657,Furniture,7,Offline,TRUE,Cash,TRUE,Morning,Holiday Weekend,15,7,TRUE,TRUE,Low,Medium,Offline Only,Offline
+29,Female,High,Rural,14,101,Groceries,3,Offline,FALSE,Credit Card,TRUE,Afternoon,Summer Sale,10,3,FALSE,FALSE,Medium,High,Online Only,Offline
+31,Female,Low,Suburban,6,693,Beauty Products,1,Offline,TRUE,Digital Wallet,TRUE,Evening,Summer Sale,12,8,FALSE,TRUE,Low,Low,Online Only,Offline
+44,Male,High,Rural,3,470,Electronics,3,Offline,TRUE,Cash,FALSE,Evening,Summer Sale,8,6,TRUE,FALSE,Medium,Medium,Offline Only,Online
+41,Male,Medium,Urban,14,225,Electronics,6,Offline,FALSE,UPI,TRUE,Morning,Cyber Monday,10,5,TRUE,TRUE,High,Medium,Online Only,Offline
+22,Female,Medium,Suburban,19,198,Beauty Products,9,Online,FALSE,Cash,FALSE,Afternoon,Summer Sale,7,4,FALSE,FALSE,Low,Medium,Offline Only,Online
+40,Female,High,Urban,14,440,Furniture,6,Online,TRUE,UPI,TRUE,Afternoon,Black Friday,14,3,TRUE,TRUE,Low,Medium,Online Only,Offline
+44,Female,High,Urban,15,196,Beauty Products,2,Online,FALSE,UPI,FALSE,Morning,New Year Sale,13,3,TRUE,FALSE,High,High,Offline Only,Offline
+24,Male,High,Suburban,12,300,Beauty Products,4,Offline,FALSE,Cash,FALSE,Afternoon,Black Friday,9,3,TRUE,FALSE,Medium,Medium,Offline Only,Online
+40,Male,Low,Rural,11,530,Groceries,5,Online,TRUE,Debit Card,FALSE,Afternoon,Cyber Monday,15,7,FALSE,TRUE,Low,High,Online Only,Offline
+27,Male,High,Rural,15,359,Electronics,9,Offline,FALSE,Debit Card,TRUE,Morning,Regular,4,8,TRUE,FALSE,Medium,Medium,Offline Only,Online
+42,Male,High,Rural,8,494,Groceries,7,Online,TRUE,UPI,TRUE,Morning,Black Friday,11,4,TRUE,FALSE,High,Medium,Online Only,Offline
+36,Female,Medium,Rural,10,576,Home Appliances,8,Online,FALSE,Debit Card,TRUE,Afternoon,Regular,5,5,TRUE,TRUE,Low,Low,Offline Only,Offline
+37,Male,High,Suburban,9,237,Furniture,9,Offline,FALSE,Credit Card,TRUE,Afternoon,Summer Sale,13,4,TRUE,TRUE,Low,Medium,Online Only,Offline
+35,Male,High,Rural,9,683,Groceries,2,Offline,FALSE,Credit Card,TRUE,Evening,Summer Sale,10,8,TRUE,FALSE,High,Medium,Offline Only,Offline
+36,Female,Medium,Rural,6,145,Home Appliances,1,Online,FALSE,Digital Wallet,FALSE,Afternoon,New Year Sale,5,5,TRUE,TRUE,Low,Low,Offline Only,Offline
+19,Male,Low,Suburban,12,331,Furniture,1,Online,TRUE,Digital Wallet,TRUE,Morning,Black Friday,8,8,TRUE,TRUE,High,Medium,Offline Only,Online
+29,Female,Low,Rural,7,109,Fashion,3,Online,FALSE,Digital Wallet,TRUE,Evening,Summer Sale,2,3,TRUE,TRUE,Medium,High,Offline Only,Offline
+25,Female,Low,Urban,20,266,Fashion,4,Offline,FALSE,Debit Card,TRUE,Morning,New Year Sale,11,1,FALSE,FALSE,High,Low,Offline Only,Online
+19,Female,High,Suburban,5,670,Furniture,4,Online,TRUE,Cash,TRUE,Evening,Summer Sale,3,1,FALSE,FALSE,Medium,Medium,Offline Only,Online
+29,Female,Low,Rural,9,716,Electronics,6,Offline,TRUE,Debit Card,FALSE,Afternoon,Holiday Weekend,4,2,FALSE,TRUE,High,Medium,Offline Only,Offline
+44,Male,Low,Rural,4,562,Groceries,3,Offline,FALSE,Digital Wallet,TRUE,Evening,New Year Sale,11,7,TRUE,TRUE,Low,High,Online Only,Online
+26,Male,High,Urban,19,794,Groceries,10,Online,FALSE,Credit Card,TRUE,Morning,Summer Sale,6,7,TRUE,TRUE,High,Medium,Offline Only,Online
+24,Female,Medium,Rural,7,740,Fashion,2,Online,FALSE,Debit Card,FALSE,Afternoon,New Year Sale,8,6,TRUE,FALSE,Medium,Low,Online Only,Offline
+35,Female,High,Suburban,20,137,Home Appliances,7,Online,TRUE,Debit Card,FALSE,Afternoon,Holiday Weekend,15,6,FALSE,TRUE,Low,Low,Online Only,Offline
+51,Male,Medium,Rural,16,430,Home Appliances,5,Offline,TRUE,Debit Card,FALSE,Afternoon,Cyber Monday,10,8,FALSE,TRUE,Low,Low,Offline Only,Offline
+43,Male,Low,Suburban,5,445,Groceries,5,Offline,FALSE,Credit Card,TRUE,Morning,Black Friday,12,5,TRUE,TRUE,High,Medium,Online Only,Online
+25,Female,Low,Rural,18,987,Electronics,5,Online,TRUE,Cash,FALSE,Evening,Regular,11,2,TRUE,TRUE,High,Medium,Online Only,Offline
+31,Female,Low,Urban,18,724,Fashion,4,Offline,TRUE,UPI,TRUE,Afternoon,Regular,7,8,TRUE,FALSE,Low,Low,Offline Only,Offline
+26,Male,High,Rural,7,346,Fashion,9,Offline,FALSE,Debit Card,FALSE,Morning,Cyber Monday,5,7,TRUE,FALSE,Medium,High,Online Only,Online
+25,Male,Low,Suburban,18,638,Groceries,3,Online,TRUE,Cash,FALSE,Morning,Regular,15,1,TRUE,TRUE,Medium,Medium,Offline Only,Online
+43,Female,Low,Rural,12,284,Electronics,10,Offline,FALSE,UPI,FALSE,Morning,Regular,5,2,TRUE,TRUE,High,Low,Offline Only,Offline
+50,Female,Low,Urban,19,280,Groceries,2,Online,FALSE,Digital Wallet,TRUE,Afternoon,Summer Sale,7,6,FALSE,TRUE,Low,High,Online Only,Online
+22,Male,Medium,Rural,15,920,Fashion,5,Offline,FALSE,UPI,TRUE,Evening,New Year Sale,9,8,FALSE,TRUE,High,High,Online Only,Offline
+28,Male,Low,Urban,3,398,Beauty Products,2,Offline,FALSE,Credit Card,FALSE,Evening,New Year Sale,14,5,FALSE,FALSE,Low,Low,Offline Only,Online
+33,Male,Low,Urban,17,455,Beauty Products,4,Online,TRUE,Cash,TRUE,Morning,New Year Sale,15,6,FALSE,TRUE,Low,Low,Online Only,Offline
+51,Female,Low,Suburban,3,693,Furniture,1,Online,FALSE,Digital Wallet,FALSE,Evening,Black Friday,15,3,TRUE,FALSE,Low,High,Offline Only,Offline
+20,Female,Low,Rural,18,601,Beauty Products,1,Online,TRUE,UPI,TRUE,Morning,New Year Sale,6,3,TRUE,FALSE,Low,Low,Offline Only,Offline
+44,Male,High,Rural,5,934,Furniture,6,Offline,TRUE,Digital Wallet,TRUE,Afternoon,Regular,3,4,FALSE,FALSE,Low,Medium,Online Only,Offline
+23,Male,Low,Urban,10,608,Groceries,10,Offline,FALSE,Credit Card,TRUE,Afternoon,Black Friday,5,5,TRUE,FALSE,High,High,Online Only,Online
+21,Male,High,Rural,15,730,Electronics,3,Offline,TRUE,Debit Card,FALSE,Afternoon,Cyber Monday,4,7,FALSE,TRUE,High,Low,Offline Only,Offline
+48,Female,High,Suburban,3,933,Electronics,9,Online,TRUE,Digital Wallet,FALSE,Evening,Summer Sale,8,1,TRUE,TRUE,High,Medium,Offline Only,Online
+21,Female,Low,Rural,15,544,Beauty Products,3,Offline,TRUE,UPI,FALSE,Morning,Summer Sale,13,2,TRUE,TRUE,High,Low,Offline Only,Online
+37,Female,Low,Rural,8,274,Groceries,6,Online,FALSE,Debit Card,TRUE,Afternoon,Cyber Monday,6,7,TRUE,TRUE,Low,Low,Offline Only,Offline
+40,Male,Low,Urban,12,553,Home Appliances,7,Online,TRUE,Cash,TRUE,Morning,Summer Sale,8,4,FALSE,FALSE,High,High,Offline Only,Offline
+26,Male,Medium,Rural,6,646,Groceries,7,Online,TRUE,UPI,TRUE,Afternoon,New Year Sale,4,2,FALSE,TRUE,High,Medium,Online Only,Offline
+38,Male,Low,Urban,19,258,Furniture,4,Online,FALSE,Credit Card,FALSE,Morning,Holiday Weekend,13,2,FALSE,FALSE,High,Medium,Offline Only,Offline
+19,Male,Low,Rural,16,221,Beauty Products,2,Online,TRUE,Debit Card,FALSE,Afternoon,Holiday Weekend,5,8,FALSE,TRUE,Low,Low,Offline Only,Online
+48,Male,Medium,Rural,10,522,Fashion,3,Online,FALSE,Debit Card,TRUE,Afternoon,Black Friday,4,3,TRUE,FALSE,High,High,Online Only,Online
+48,Male,Low,Rural,17,866,Beauty Products,3,Offline,TRUE,Credit Card,FALSE,Afternoon,Summer Sale,6,2,FALSE,FALSE,Low,High,Offline Only,Online
+52,Female,High,Rural,7,226,Beauty Products,3,Offline,FALSE,Debit Card,TRUE,Evening,Black Friday,15,4,FALSE,TRUE,Medium,High,Online Only,Offline
+21,Male,Medium,Rural,14,315,Electronics,10,Online,FALSE,Digital Wallet,TRUE,Afternoon,New Year Sale,9,1,FALSE,TRUE,High,Medium,Online Only,Offline
+19,Female,Low,Rural,20,810,Beauty Products,8,Offline,TRUE,Credit Card,FALSE,Morning,Holiday Weekend,3,7,TRUE,FALSE,High,Medium,Online Only,Online
+20,Male,High,Urban,10,352,Furniture,3,Offline,TRUE,UPI,FALSE,Morning,Holiday Weekend,14,6,FALSE,TRUE,Low,Medium,Online Only,Online
+21,Female,Low,Rural,15,365,Beauty Products,2,Online,FALSE,Credit Card,FALSE,Evening,New Year Sale,4,5,FALSE,TRUE,High,Medium,Offline Only,Offline
+45,Male,Low,Rural,8,573,Electronics,6,Online,TRUE,Credit Card,TRUE,Evening,Black Friday,10,1,FALSE,FALSE,Medium,Medium,Offline Only,Online
+25,Female,Medium,Suburban,16,102,Beauty Products,6,Online,FALSE,Credit Card,FALSE,Afternoon,Regular,4,3,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+36,Female,High,Rural,4,464,Beauty Products,3,Offline,FALSE,Debit Card,TRUE,Evening,Cyber Monday,7,4,TRUE,TRUE,High,Low,Offline Only,Online
+25,Male,Medium,Rural,11,545,Fashion,7,Offline,TRUE,Digital Wallet,FALSE,Morning,Black Friday,12,3,FALSE,FALSE,High,Medium,Offline Only,Offline
+44,Female,High,Rural,15,467,Electronics,8,Online,FALSE,Debit Card,FALSE,Afternoon,Regular,13,8,FALSE,TRUE,Low,Low,Online Only,Online
+23,Male,Low,Suburban,13,233,Furniture,4,Online,FALSE,Cash,TRUE,Afternoon,Black Friday,13,5,FALSE,TRUE,Medium,Low,Offline Only,Offline
+52,Female,High,Urban,8,908,Beauty Products,7,Offline,TRUE,Cash,FALSE,Morning,Black Friday,6,1,TRUE,TRUE,Medium,High,Online Only,Offline
+36,Female,Low,Rural,20,130,Groceries,5,Online,FALSE,Cash,TRUE,Morning,Summer Sale,15,6,TRUE,TRUE,Medium,Low,Offline Only,Offline
+47,Male,High,Rural,16,754,Fashion,1,Online,TRUE,Cash,FALSE,Morning,Regular,14,5,FALSE,FALSE,Low,Medium,Offline Only,Offline
+30,Male,Medium,Rural,16,549,Beauty Products,1,Online,FALSE,Debit Card,TRUE,Evening,Regular,1,4,TRUE,FALSE,Low,Low,Online Only,Online
+39,Male,Medium,Rural,14,651,Furniture,5,Online,FALSE,Digital Wallet,FALSE,Morning,Black Friday,5,6,FALSE,FALSE,Low,High,Online Only,Online
+26,Male,High,Rural,15,248,Electronics,9,Online,FALSE,UPI,TRUE,Morning,New Year Sale,14,7,TRUE,FALSE,High,Medium,Online Only,Offline
+43,Female,High,Suburban,12,676,Beauty Products,8,Offline,TRUE,Cash,TRUE,Evening,Black Friday,14,7,TRUE,TRUE,Medium,Medium,Online Only,Offline
+35,Female,High,Urban,15,713,Electronics,1,Online,TRUE,Debit Card,TRUE,Evening,New Year Sale,1,8,TRUE,TRUE,Medium,Low,Offline Only,Online
+28,Male,Low,Rural,16,734,Fashion,2,Offline,FALSE,UPI,TRUE,Afternoon,Cyber Monday,9,2,TRUE,TRUE,Low,High,Online Only,Online
+24,Male,High,Rural,19,992,Furniture,6,Online,TRUE,Cash,FALSE,Morning,New Year Sale,14,5,FALSE,TRUE,Medium,Medium,Online Only,Online
+29,Female,High,Urban,9,269,Fashion,3,Online,TRUE,Debit Card,FALSE,Morning,Holiday Weekend,6,4,FALSE,FALSE,Medium,High,Offline Only,Offline
+23,Male,Low,Rural,3,755,Groceries,1,Offline,TRUE,Credit Card,TRUE,Evening,New Year Sale,2,6,FALSE,TRUE,Medium,Low,Online Only,Online
+50,Female,High,Suburban,19,374,Furniture,10,Offline,FALSE,Digital Wallet,TRUE,Morning,Cyber Monday,14,6,FALSE,TRUE,Medium,Medium,Offline Only,Online
+36,Female,Low,Urban,14,442,Home Appliances,3,Offline,FALSE,Cash,TRUE,Afternoon,Summer Sale,2,5,FALSE,TRUE,Medium,Low,Online Only,Offline
+23,Male,High,Urban,11,673,Home Appliances,5,Offline,FALSE,Debit Card,TRUE,Afternoon,Summer Sale,13,7,TRUE,FALSE,Low,High,Offline Only,Online
+19,Female,Medium,Urban,15,767,Furniture,8,Online,TRUE,UPI,TRUE,Evening,Black Friday,9,4,TRUE,TRUE,Medium,Medium,Online Only,Offline
+44,Male,High,Urban,18,555,Electronics,8,Offline,FALSE,Cash,FALSE,Morning,Regular,5,8,TRUE,TRUE,Low,Medium,Offline Only,Online
+27,Female,Low,Urban,16,841,Beauty Products,2,Offline,FALSE,Digital Wallet,FALSE,Afternoon,Holiday Weekend,3,5,TRUE,FALSE,Low,Medium,Offline Only,Offline
+32,Female,High,Rural,7,695,Electronics,9,Offline,TRUE,Cash,FALSE,Afternoon,Cyber Monday,7,5,FALSE,FALSE,Low,Medium,Online Only,Online
+29,Female,Medium,Rural,19,866,Electronics,10,Offline,TRUE,UPI,TRUE,Afternoon,Regular,12,8,FALSE,TRUE,Low,Low,Online Only,Online
+41,Female,Low,Suburban,20,979,Groceries,5,Online,TRUE,Cash,TRUE,Evening,New Year Sale,3,3,TRUE,FALSE,Medium,High,Online Only,Online
+44,Female,Low,Rural,18,424,Groceries,6,Offline,TRUE,Debit Card,TRUE,Evening,Cyber Monday,13,7,FALSE,TRUE,High,High,Online Only,Online
+19,Female,High,Rural,12,440,Groceries,8,Online,TRUE,Cash,FALSE,Morning,Cyber Monday,8,2,FALSE,TRUE,Medium,Low,Online Only,Online
+33,Male,Medium,Urban,14,206,Beauty Products,10,Offline,TRUE,UPI,FALSE,Afternoon,Cyber Monday,14,5,TRUE,TRUE,Medium,High,Online Only,Online
+34,Male,Low,Urban,16,782,Electronics,5,Offline,FALSE,UPI,TRUE,Evening,Holiday Weekend,13,8,FALSE,FALSE,Medium,High,Offline Only,Online
+49,Male,High,Suburban,10,939,Furniture,7,Offline,TRUE,Digital Wallet,TRUE,Morning,Regular,1,7,FALSE,TRUE,Low,Low,Online Only,Offline
+46,Female,Medium,Urban,19,542,Beauty Products,4,Offline,FALSE,UPI,FALSE,Morning,New Year Sale,4,3,FALSE,FALSE,Low,High,Offline Only,Offline
+40,Male,Low,Urban,9,980,Furniture,1,Online,TRUE,Debit Card,TRUE,Evening,Summer Sale,2,4,FALSE,TRUE,Low,Low,Online Only,Online
+18,Male,Medium,Rural,12,289,Electronics,8,Online,FALSE,Debit Card,FALSE,Afternoon,Summer Sale,10,5,FALSE,TRUE,Medium,High,Online Only,Online
+35,Female,Low,Rural,13,421,Electronics,7,Online,TRUE,Credit Card,FALSE,Afternoon,New Year Sale,14,1,TRUE,FALSE,High,Medium,Online Only,Online
+27,Female,Low,Rural,16,548,Furniture,5,Offline,FALSE,Cash,TRUE,Afternoon,Regular,7,5,TRUE,FALSE,High,High,Online Only,Online
+37,Female,High,Urban,10,273,Home Appliances,9,Online,TRUE,Cash,TRUE,Afternoon,Summer Sale,3,1,FALSE,FALSE,Low,High,Online Only,Online
+46,Female,Low,Rural,7,376,Groceries,5,Offline,TRUE,Credit Card,FALSE,Morning,Regular,3,3,TRUE,FALSE,High,Medium,Offline Only,Online
+39,Male,Low,Rural,17,447,Home Appliances,4,Offline,FALSE,Cash,TRUE,Afternoon,Black Friday,3,3,TRUE,TRUE,Low,High,Offline Only,Offline
+31,Female,Low,Suburban,17,509,Fashion,5,Online,TRUE,Debit Card,TRUE,Evening,Summer Sale,8,2,FALSE,TRUE,Low,Medium,Online Only,Online
+22,Female,Low,Rural,11,849,Home Appliances,3,Online,FALSE,Digital Wallet,FALSE,Evening,Cyber Monday,15,4,TRUE,FALSE,High,High,Offline Only,Online
+29,Female,Low,Urban,4,586,Fashion,8,Offline,TRUE,Digital Wallet,FALSE,Evening,Summer Sale,14,2,FALSE,TRUE,High,Medium,Online Only,Offline
+21,Female,Medium,Rural,10,323,Home Appliances,10,Offline,TRUE,Cash,FALSE,Afternoon,Summer Sale,5,2,FALSE,TRUE,Medium,Medium,Offline Only,Offline
+26,Female,High,Rural,10,799,Groceries,7,Offline,FALSE,Cash,TRUE,Afternoon,Holiday Weekend,10,1,FALSE,TRUE,Medium,Medium,Offline Only,Online
+30,Female,Medium,Urban,10,366,Furniture,5,Online,TRUE,Debit Card,FALSE,Evening,Black Friday,14,5,TRUE,TRUE,Low,High,Online Only,Offline
+40,Female,High,Rural,3,606,Furniture,3,Online,TRUE,UPI,FALSE,Morning,Cyber Monday,6,3,FALSE,TRUE,Low,Medium,Offline Only,Online
+22,Female,Low,Urban,3,891,Furniture,7,Online,FALSE,Cash,TRUE,Morning,Regular,8,4,TRUE,TRUE,High,Medium,Offline Only,Offline
+27,Female,High,Urban,5,254,Electronics,10,Online,TRUE,UPI,TRUE,Afternoon,Black Friday,5,4,FALSE,FALSE,Medium,High,Offline Only,Offline
+24,Female,Low,Rural,16,189,Home Appliances,8,Online,FALSE,Debit Card,FALSE,Afternoon,Summer Sale,4,1,TRUE,FALSE,Low,High,Online Only,Online
+35,Female,High,Urban,5,807,Home Appliances,7,Online,FALSE,UPI,TRUE,Afternoon,New Year Sale,15,5,FALSE,FALSE,Low,Low,Offline Only,Offline
+29,Male,High,Urban,6,501,Electronics,10,Online,FALSE,Credit Card,FALSE,Morning,New Year Sale,12,8,FALSE,FALSE,High,Low,Offline Only,Offline
+20,Male,High,Rural,3,344,Beauty Products,3,Online,FALSE,Debit Card,TRUE,Afternoon,Regular,2,1,TRUE,FALSE,Medium,High,Offline Only,Offline
+28,Female,Low,Suburban,12,327,Groceries,8,Online,TRUE,UPI,FALSE,Morning,New Year Sale,2,1,TRUE,TRUE,High,High,Offline Only,Offline
+33,Male,Low,Urban,14,685,Furniture,6,Online,FALSE,Digital Wallet,TRUE,Evening,Summer Sale,4,1,TRUE,FALSE,High,Medium,Online Only,Online
+31,Male,Medium,Suburban,18,583,Electronics,2,Online,TRUE,Debit Card,TRUE,Morning,Regular,5,2,FALSE,TRUE,Low,Low,Online Only,Online
+48,Male,Low,Suburban,7,710,Electronics,9,Online,TRUE,Credit Card,TRUE,Evening,Summer Sale,1,5,FALSE,TRUE,Medium,High,Offline Only,Online
+46,Female,Medium,Urban,6,545,Furniture,10,Offline,FALSE,UPI,FALSE,Evening,Holiday Weekend,9,4,FALSE,TRUE,Medium,Low,Offline Only,Online
+32,Male,High,Rural,4,697,Home Appliances,2,Offline,TRUE,Cash,TRUE,Evening,Black Friday,6,8,TRUE,FALSE,High,Medium,Online Only,Online
+52,Female,Low,Rural,12,245,Groceries,1,Offline,TRUE,Credit Card,TRUE,Afternoon,Regular,14,1,FALSE,FALSE,Low,Low,Online Only,Offline
+36,Male,High,Suburban,12,867,Groceries,2,Offline,FALSE,Debit Card,FALSE,Afternoon,New Year Sale,12,7,FALSE,TRUE,Low,High,Offline Only,Online
+44,Male,Medium,Urban,12,214,Fashion,9,Online,FALSE,UPI,FALSE,Evening,New Year Sale,4,3,TRUE,FALSE,High,Low,Offline Only,Online
+22,Female,High,Rural,11,963,Electronics,7,Offline,TRUE,Cash,TRUE,Afternoon,Holiday Weekend,13,4,TRUE,FALSE,Low,Medium,Offline Only,Online
+29,Male,High,Urban,20,264,Beauty Products,2,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Cyber Monday,1,4,TRUE,FALSE,High,Low,Online Only,Offline
+25,Male,Medium,Urban,11,710,Furniture,4,Online,TRUE,UPI,TRUE,Evening,New Year Sale,11,4,FALSE,TRUE,High,Medium,Online Only,Online
+28,Male,Medium,Suburban,16,430,Fashion,6,Offline,TRUE,Digital Wallet,FALSE,Evening,Holiday Weekend,4,1,TRUE,TRUE,High,High,Offline Only,Offline
+38,Male,Low,Rural,13,512,Fashion,4,Offline,FALSE,Cash,FALSE,Evening,Summer Sale,9,2,FALSE,TRUE,Medium,Low,Offline Only,Online
+19,Female,Low,Urban,13,762,Beauty Products,7,Offline,TRUE,Cash,FALSE,Evening,Holiday Weekend,6,4,TRUE,TRUE,Low,Low,Online Only,Online
+24,Female,Low,Suburban,18,468,Fashion,10,Online,TRUE,Cash,TRUE,Morning,New Year Sale,2,6,FALSE,TRUE,Low,Medium,Offline Only,Online
+26,Male,Low,Urban,16,821,Beauty Products,1,Offline,TRUE,Cash,TRUE,Afternoon,Summer Sale,8,4,TRUE,TRUE,Medium,Low,Offline Only,Offline
+42,Female,High,Suburban,3,780,Beauty Products,8,Offline,FALSE,Digital Wallet,TRUE,Evening,Black Friday,15,7,TRUE,TRUE,High,Low,Online Only,Offline
+18,Male,Medium,Suburban,10,669,Electronics,7,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Regular,5,8,FALSE,TRUE,High,Medium,Online Only,Online
+28,Male,Medium,Suburban,4,128,Electronics,2,Online,FALSE,Credit Card,TRUE,Morning,New Year Sale,15,7,FALSE,FALSE,Medium,Medium,Online Only,Offline
+31,Female,High,Rural,17,993,Beauty Products,5,Offline,FALSE,Cash,TRUE,Afternoon,Black Friday,9,5,FALSE,FALSE,Low,High,Offline Only,Online
+36,Female,Low,Suburban,17,650,Groceries,4,Online,TRUE,Digital Wallet,FALSE,Afternoon,Regular,10,1,TRUE,FALSE,Low,Medium,Offline Only,Online
+32,Female,Medium,Rural,11,944,Home Appliances,9,Offline,TRUE,Cash,FALSE,Morning,Black Friday,14,2,FALSE,TRUE,Low,Low,Offline Only,Online
+46,Female,High,Urban,11,189,Fashion,3,Online,TRUE,UPI,TRUE,Morning,Cyber Monday,1,1,FALSE,TRUE,Low,Low,Offline Only,Online
+44,Male,Medium,Urban,9,704,Beauty Products,3,Online,TRUE,Credit Card,FALSE,Afternoon,Cyber Monday,6,6,FALSE,TRUE,Low,Medium,Offline Only,Offline
+26,Male,Low,Suburban,3,102,Beauty Products,7,Online,FALSE,Cash,TRUE,Evening,Summer Sale,3,7,TRUE,TRUE,Medium,High,Offline Only,Offline
+43,Female,Medium,Rural,5,108,Fashion,3,Online,TRUE,Debit Card,TRUE,Evening,Regular,12,1,TRUE,TRUE,Low,Medium,Online Only,Online
+24,Female,High,Suburban,16,934,Furniture,4,Offline,TRUE,Digital Wallet,TRUE,Evening,New Year Sale,2,1,TRUE,FALSE,High,Low,Online Only,Offline
+37,Male,Medium,Rural,20,428,Electronics,1,Offline,FALSE,UPI,TRUE,Afternoon,Summer Sale,13,8,TRUE,FALSE,Medium,Medium,Online Only,Online
+44,Male,Medium,Suburban,19,754,Home Appliances,2,Online,TRUE,Credit Card,TRUE,Morning,Holiday Weekend,5,6,FALSE,FALSE,High,High,Offline Only,Offline
+25,Female,Low,Suburban,17,626,Home Appliances,10,Offline,FALSE,Digital Wallet,FALSE,Morning,Black Friday,4,4,TRUE,TRUE,High,Low,Offline Only,Offline
+32,Male,Medium,Suburban,20,776,Electronics,9,Online,TRUE,Credit Card,FALSE,Afternoon,Black Friday,13,8,FALSE,FALSE,Medium,High,Online Only,Offline
+45,Female,Low,Urban,13,192,Beauty Products,4,Offline,TRUE,UPI,TRUE,Afternoon,New Year Sale,15,5,FALSE,TRUE,Low,High,Online Only,Offline
+35,Male,Low,Suburban,8,786,Groceries,4,Online,TRUE,Debit Card,FALSE,Morning,Cyber Monday,10,3,FALSE,TRUE,High,Low,Offline Only,Offline
+25,Female,Medium,Suburban,5,860,Furniture,8,Offline,TRUE,UPI,FALSE,Morning,Black Friday,9,4,TRUE,TRUE,Low,Low,Offline Only,Online
+43,Female,Low,Rural,12,747,Electronics,7,Online,TRUE,Cash,TRUE,Afternoon,Black Friday,2,1,TRUE,FALSE,Medium,Medium,Online Only,Online
+26,Male,Medium,Urban,5,383,Fashion,8,Offline,TRUE,Debit Card,FALSE,Morning,Regular,14,6,FALSE,TRUE,High,Low,Offline Only,Online
+48,Male,Low,Rural,4,659,Fashion,3,Offline,FALSE,UPI,FALSE,Evening,Regular,5,1,FALSE,FALSE,Medium,Medium,Offline Only,Online
+32,Female,Low,Suburban,19,731,Electronics,6,Online,FALSE,Credit Card,FALSE,Evening,Cyber Monday,2,2,FALSE,TRUE,High,Medium,Offline Only,Online
+25,Female,Low,Suburban,6,287,Electronics,8,Offline,TRUE,UPI,FALSE,Evening,Cyber Monday,9,6,TRUE,TRUE,Low,Medium,Offline Only,Offline
+27,Male,Low,Rural,10,497,Furniture,4,Online,FALSE,Debit Card,TRUE,Afternoon,Cyber Monday,2,3,TRUE,FALSE,Low,Medium,Offline Only,Offline
+52,Female,Low,Urban,20,671,Home Appliances,10,Online,TRUE,Digital Wallet,TRUE,Afternoon,New Year Sale,9,7,FALSE,TRUE,High,High,Offline Only,Online
+20,Male,High,Suburban,15,608,Beauty Products,1,Offline,FALSE,Digital Wallet,FALSE,Afternoon,Regular,14,2,TRUE,FALSE,Medium,Low,Online Only,Online
+29,Male,High,Suburban,4,762,Groceries,9,Online,TRUE,Credit Card,TRUE,Evening,New Year Sale,10,6,FALSE,TRUE,Medium,High,Online Only,Online
+28,Female,Low,Suburban,11,145,Home Appliances,7,Offline,TRUE,Digital Wallet,TRUE,Morning,Regular,13,8,FALSE,FALSE,High,High,Online Only,Online
+20,Female,High,Suburban,12,171,Electronics,3,Online,FALSE,Debit Card,FALSE,Morning,Black Friday,1,2,TRUE,TRUE,High,Medium,Online Only,Offline
+39,Male,Medium,Suburban,16,238,Electronics,8,Online,FALSE,Credit Card,FALSE,Evening,Summer Sale,14,4,TRUE,FALSE,Low,Medium,Online Only,Online
+34,Female,Low,Urban,13,648,Groceries,8,Offline,FALSE,Cash,TRUE,Morning,Holiday Weekend,2,5,FALSE,TRUE,High,Low,Offline Only,Offline
+44,Female,Low,Rural,9,872,Electronics,8,Offline,TRUE,UPI,TRUE,Afternoon,Summer Sale,15,4,FALSE,TRUE,Low,High,Online Only,Online
+22,Female,Low,Suburban,10,386,Furniture,8,Online,TRUE,Debit Card,FALSE,Evening,Cyber Monday,2,8,FALSE,TRUE,Low,Low,Online Only,Online
+26,Male,High,Rural,7,224,Groceries,6,Online,FALSE,Debit Card,TRUE,Morning,New Year Sale,4,1,FALSE,FALSE,High,Medium,Offline Only,Offline
+38,Female,High,Urban,19,913,Groceries,7,Offline,TRUE,Cash,FALSE,Afternoon,Summer Sale,1,5,FALSE,FALSE,Low,Medium,Offline Only,Offline
+47,Male,Low,Urban,18,871,Home Appliances,5,Offline,TRUE,Digital Wallet,FALSE,Evening,Summer Sale,6,3,FALSE,FALSE,Low,Low,Offline Only,Online
+21,Male,Medium,Rural,6,417,Electronics,6,Offline,FALSE,Digital Wallet,TRUE,Morning,Summer Sale,3,1,TRUE,TRUE,Medium,Low,Online Only,Online
+22,Male,Medium,Suburban,19,671,Fashion,9,Offline,TRUE,UPI,TRUE,Afternoon,Regular,10,4,FALSE,TRUE,Low,Low,Offline Only,Offline
+18,Female,Low,Urban,9,980,Beauty Products,10,Offline,FALSE,Cash,FALSE,Morning,Holiday Weekend,11,5,TRUE,TRUE,Low,Medium,Online Only,Online
+36,Male,High,Rural,17,490,Home Appliances,5,Online,FALSE,Cash,TRUE,Afternoon,Holiday Weekend,8,5,TRUE,TRUE,Medium,Low,Online Only,Offline
+23,Female,Low,Suburban,6,851,Beauty Products,10,Offline,FALSE,Debit Card,TRUE,Morning,Summer Sale,4,5,FALSE,FALSE,Medium,High,Online Only,Online
+18,Female,Medium,Urban,8,427,Electronics,1,Online,TRUE,Credit Card,FALSE,Evening,Cyber Monday,1,7,FALSE,FALSE,High,Low,Offline Only,Offline
+42,Female,Low,Urban,16,582,Furniture,9,Offline,FALSE,UPI,FALSE,Afternoon,Summer Sale,13,6,FALSE,TRUE,Medium,High,Offline Only,Online
+52,Male,Medium,Rural,8,551,Furniture,5,Offline,FALSE,UPI,TRUE,Evening,Holiday Weekend,6,6,TRUE,FALSE,Medium,High,Online Only,Online
+22,Female,High,Urban,7,371,Home Appliances,3,Offline,FALSE,Cash,FALSE,Afternoon,Black Friday,1,3,FALSE,FALSE,High,Low,Offline Only,Offline
+40,Female,Low,Rural,14,529,Fashion,9,Online,FALSE,Digital Wallet,TRUE,Afternoon,Holiday Weekend,12,6,TRUE,FALSE,High,Medium,Online Only,Online
+51,Female,Low,Suburban,3,698,Furniture,4,Offline,FALSE,Debit Card,FALSE,Evening,New Year Sale,3,8,TRUE,TRUE,High,Low,Offline Only,Offline
+31,Male,High,Suburban,8,933,Furniture,5,Online,TRUE,Debit Card,TRUE,Evening,Black Friday,13,4,FALSE,TRUE,Medium,High,Online Only,Offline
+27,Female,High,Rural,15,478,Groceries,5,Offline,TRUE,UPI,FALSE,Afternoon,Cyber Monday,15,4,FALSE,TRUE,Medium,Medium,Online Only,Online
+40,Male,High,Suburban,3,460,Home Appliances,5,Offline,FALSE,UPI,FALSE,Evening,Black Friday,12,7,FALSE,FALSE,Medium,High,Offline Only,Offline
+52,Male,Low,Suburban,20,934,Groceries,5,Online,TRUE,Digital Wallet,FALSE,Evening,Regular,13,1,TRUE,TRUE,High,High,Offline Only,Online
+37,Male,Low,Rural,5,896,Home Appliances,8,Offline,TRUE,UPI,FALSE,Evening,Black Friday,11,5,FALSE,TRUE,Medium,High,Online Only,Offline
+33,Male,Medium,Suburban,6,405,Fashion,4,Online,FALSE,Credit Card,TRUE,Evening,Summer Sale,13,5,FALSE,FALSE,Low,Medium,Offline Only,Offline
+49,Female,Low,Suburban,6,911,Electronics,9,Online,FALSE,Credit Card,TRUE,Afternoon,Summer Sale,1,7,TRUE,FALSE,Low,Low,Online Only,Online
+28,Female,Low,Rural,17,128,Groceries,2,Offline,FALSE,Digital Wallet,FALSE,Evening,Holiday Weekend,14,5,TRUE,TRUE,Medium,Low,Offline Only,Offline
+39,Male,Medium,Urban,17,752,Beauty Products,1,Online,FALSE,UPI,TRUE,Evening,Cyber Monday,15,2,TRUE,FALSE,Medium,Low,Offline Only,Offline
+28,Female,High,Suburban,19,244,Electronics,3,Online,FALSE,UPI,TRUE,Afternoon,Holiday Weekend,1,1,TRUE,TRUE,Low,Low,Online Only,Online
+34,Female,Low,Suburban,4,111,Home Appliances,8,Online,TRUE,UPI,TRUE,Evening,Regular,4,5,TRUE,FALSE,Low,Low,Offline Only,Online
+19,Male,Medium,Urban,3,524,Beauty Products,4,Offline,FALSE,Credit Card,FALSE,Evening,Black Friday,1,2,FALSE,TRUE,High,High,Online Only,Online
+29,Male,High,Suburban,6,520,Beauty Products,3,Offline,FALSE,Credit Card,FALSE,Morning,New Year Sale,14,1,FALSE,FALSE,Medium,High,Offline Only,Online
+42,Male,Medium,Urban,18,896,Home Appliances,2,Offline,TRUE,UPI,TRUE,Morning,Regular,9,4,FALSE,TRUE,Medium,High,Offline Only,Online
+25,Female,Low,Suburban,6,876,Home Appliances,1,Online,FALSE,Credit Card,FALSE,Afternoon,Summer Sale,8,8,FALSE,TRUE,Medium,Medium,Online Only,Offline
+19,Male,Medium,Rural,12,309,Home Appliances,5,Offline,FALSE,Debit Card,TRUE,Afternoon,Cyber Monday,3,2,TRUE,FALSE,Medium,High,Online Only,Online
+21,Female,Low,Urban,7,799,Electronics,1,Offline,TRUE,Cash,FALSE,Morning,Regular,14,3,TRUE,TRUE,Low,High,Online Only,Online
+30,Male,High,Rural,4,540,Fashion,4,Offline,FALSE,Debit Card,FALSE,Afternoon,Cyber Monday,11,8,FALSE,TRUE,Low,High,Offline Only,Online
+41,Female,Medium,Urban,13,506,Electronics,1,Online,FALSE,UPI,TRUE,Afternoon,New Year Sale,3,4,FALSE,TRUE,High,Low,Offline Only,Online
+20,Male,Low,Suburban,6,529,Groceries,9,Online,TRUE,Debit Card,FALSE,Afternoon,Regular,13,1,TRUE,TRUE,High,Low,Online Only,Online
+33,Male,High,Urban,9,346,Groceries,7,Offline,TRUE,Cash,TRUE,Afternoon,Regular,2,6,TRUE,TRUE,Low,Medium,Offline Only,Online
+35,Male,High,Rural,18,610,Fashion,10,Online,FALSE,Credit Card,TRUE,Evening,Cyber Monday,6,7,FALSE,FALSE,Medium,Low,Offline Only,Online
+39,Male,High,Rural,20,475,Fashion,1,Online,FALSE,Credit Card,TRUE,Afternoon,Cyber Monday,2,8,FALSE,FALSE,Low,Low,Online Only,Online
+19,Female,High,Urban,15,479,Electronics,7,Online,FALSE,Credit Card,TRUE,Morning,Black Friday,6,8,FALSE,TRUE,Low,Medium,Offline Only,Offline
+19,Female,High,Suburban,15,749,Beauty Products,4,Online,FALSE,Digital Wallet,TRUE,Afternoon,Black Friday,9,6,FALSE,FALSE,Medium,High,Online Only,Online
+30,Male,High,Urban,6,926,Furniture,9,Online,TRUE,Cash,FALSE,Evening,Black Friday,5,2,FALSE,TRUE,Medium,High,Offline Only,Online
+34,Male,High,Urban,4,402,Beauty Products,5,Offline,TRUE,Credit Card,TRUE,Evening,New Year Sale,8,4,TRUE,TRUE,Low,Medium,Online Only,Online
+38,Male,High,Urban,4,885,Furniture,5,Online,FALSE,Digital Wallet,TRUE,Evening,Regular,3,5,FALSE,FALSE,Low,Low,Offline Only,Offline
+26,Female,Low,Urban,3,843,Electronics,8,Offline,TRUE,Cash,FALSE,Afternoon,New Year Sale,5,5,TRUE,TRUE,Medium,Low,Online Only,Offline
+42,Male,High,Urban,16,421,Fashion,9,Online,TRUE,Debit Card,TRUE,Evening,Summer Sale,8,2,TRUE,FALSE,Medium,Medium,Offline Only,Offline
+38,Male,Low,Rural,6,844,Beauty Products,4,Online,TRUE,Cash,TRUE,Afternoon,Holiday Weekend,1,5,TRUE,FALSE,Low,Medium,Offline Only,Online
+31,Male,High,Suburban,18,373,Beauty Products,10,Offline,FALSE,Cash,FALSE,Morning,Regular,2,8,TRUE,FALSE,Medium,Medium,Offline Only,Offline
+45,Female,Low,Urban,6,571,Electronics,6,Online,TRUE,Cash,TRUE,Evening,New Year Sale,13,5,TRUE,FALSE,High,Low,Online Only,Offline
+27,Male,High,Suburban,4,430,Electronics,4,Online,FALSE,UPI,TRUE,Afternoon,Holiday Weekend,3,6,TRUE,TRUE,Medium,High,Offline Only,Online
+41,Female,Medium,Suburban,15,955,Home Appliances,2,Online,FALSE,Digital Wallet,FALSE,Afternoon,New Year Sale,1,3,FALSE,FALSE,Low,Medium,Online Only,Online
+51,Female,Low,Rural,4,301,Fashion,5,Offline,FALSE,UPI,FALSE,Morning,Black Friday,7,8,FALSE,FALSE,Medium,High,Online Only,Online
+42,Female,Low,Rural,17,441,Groceries,3,Offline,TRUE,UPI,TRUE,Morning,Black Friday,2,7,FALSE,TRUE,Low,Medium,Offline Only,Offline
+37,Female,Medium,Suburban,13,270,Home Appliances,8,Offline,FALSE,Digital Wallet,TRUE,Afternoon,Regular,3,5,TRUE,FALSE,Low,Low,Offline Only,Offline
+50,Male,Low,Suburban,16,952,Home Appliances,2,Offline,FALSE,UPI,FALSE,Evening,Holiday Weekend,8,3,TRUE,TRUE,Low,Low,Online Only,Offline
+31,Male,Medium,Rural,16,783,Electronics,3,Offline,TRUE,Debit Card,TRUE,Morning,Cyber Monday,3,7,TRUE,FALSE,Medium,Low,Offline Only,Online
+50,Female,Medium,Suburban,3,891,Groceries,1,Offline,FALSE,Digital Wallet,TRUE,Morning,Regular,10,4,TRUE,TRUE,High,Low,Offline Only,Online
+48,Male,Medium,Rural,5,736,Groceries,10,Offline,TRUE,Debit Card,TRUE,Evening,Regular,6,7,TRUE,TRUE,Low,Low,Offline Only,Online
+28,Male,High,Suburban,11,603,Groceries,3,Offline,FALSE,Credit Card,TRUE,Morning,Black Friday,1,5,FALSE,FALSE,Low,Low,Online Only,Online
+51,Male,High,Suburban,15,345,Groceries,5,Online,FALSE,Credit Card,FALSE,Evening,Cyber Monday,2,4,TRUE,FALSE,Medium,Medium,Online Only,Offline
+30,Female,High,Rural,3,361,Beauty Products,1,Offline,FALSE,Digital Wallet,FALSE,Evening,New Year Sale,7,3,FALSE,TRUE,Medium,High,Online Only,Online
+36,Female,Medium,Suburban,6,241,Home Appliances,2,Online,FALSE,Digital Wallet,TRUE,Evening,Cyber Monday,8,8,TRUE,TRUE,High,High,Online Only,Online
+49,Male,Low,Rural,20,820,Groceries,4,Online,TRUE,Debit Card,FALSE,Afternoon,New Year Sale,9,5,TRUE,FALSE,Low,Low,Offline Only,Offline
+47,Female,Low,Urban,13,635,Fashion,9,Online,TRUE,Cash,FALSE,Afternoon,Black Friday,1,2,TRUE,TRUE,Low,Low,Offline Only,Online
+37,Female,Low,Rural,4,997,Home Appliances,5,Offline,FALSE,Digital Wallet,TRUE,Afternoon,New Year Sale,13,2,TRUE,TRUE,High,High,Online Only,Online
+42,Male,Low,Rural,8,190,Fashion,4,Online,TRUE,UPI,TRUE,Evening,Cyber Monday,12,3,FALSE,TRUE,High,High,Offline Only,Offline
+49,Male,Low,Urban,20,699,Beauty Products,4,Offline,FALSE,Credit Card,TRUE,Afternoon,Holiday Weekend,9,3,FALSE,FALSE,Medium,Medium,Online Only,Online
+22,Male,Low,Suburban,20,561,Electronics,8,Online,FALSE,Cash,FALSE,Evening,Cyber Monday,13,2,TRUE,TRUE,Low,Medium,Online Only,Online
+18,Female,High,Rural,18,332,Furniture,3,Offline,FALSE,Debit Card,TRUE,Afternoon,Regular,14,2,TRUE,TRUE,Low,Low,Offline Only,Offline
+36,Male,High,Suburban,4,420,Groceries,9,Online,TRUE,Debit Card,TRUE,Morning,Regular,11,4,TRUE,TRUE,Low,Medium,Online Only,Online
+49,Female,High,Suburban,6,891,Fashion,1,Online,FALSE,Cash,FALSE,Evening,Cyber Monday,4,8,TRUE,FALSE,High,Low,Online Only,Online
+21,Female,Low,Suburban,6,295,Fashion,3,Online,FALSE,UPI,FALSE,Evening,New Year Sale,6,5,FALSE,FALSE,High,High,Online Only,Online
+27,Male,Medium,Suburban,18,747,Furniture,8,Online,TRUE,Debit Card,FALSE,Evening,Cyber Monday,2,7,TRUE,FALSE,Medium,Medium,Offline Only,Offline
+31,Male,High,Urban,12,421,Electronics,4,Offline,FALSE,Debit Card,TRUE,Morning,Summer Sale,14,2,TRUE,FALSE,High,Medium,Offline Only,Offline
+38,Male,Low,Suburban,5,372,Groceries,4,Offline,TRUE,UPI,TRUE,Afternoon,Regular,5,6,FALSE,FALSE,Medium,High,Online Only,Online
+48,Male,High,Suburban,18,559,Home Appliances,9,Online,FALSE,Digital Wallet,FALSE,Morning,Cyber Monday,7,6,TRUE,FALSE,Low,Low,Online Only,Offline
+51,Male,High,Urban,4,933,Beauty Products,9,Offline,FALSE,Credit Card,TRUE,Morning,Summer Sale,2,8,TRUE,TRUE,High,High,Offline Only,Offline
+33,Male,Low,Rural,6,311,Fashion,6,Offline,FALSE,Debit Card,FALSE,Morning,Summer Sale,7,2,FALSE,FALSE,Low,Medium,Offline Only,Online
+20,Female,Low,Urban,20,755,Groceries,2,Offline,FALSE,Credit Card,TRUE,Afternoon,Regular,12,6,TRUE,FALSE,Low,Low,Offline Only,Online
+32,Male,Low,Urban,19,277,Groceries,1,Online,TRUE,UPI,TRUE,Afternoon,New Year Sale,9,6,TRUE,TRUE,Medium,High,Offline Only,Online
+30,Female,High,Urban,17,263,Groceries,7,Offline,TRUE,Cash,FALSE,Morning,Regular,1,5,TRUE,TRUE,High,Medium,Offline Only,Offline
+21,Female,High,Urban,3,663,Fashion,9,Online,FALSE,Digital Wallet,TRUE,Afternoon,Holiday Weekend,11,7,FALSE,TRUE,High,Medium,Online Only,Online
+44,Female,Medium,Suburban,13,781,Electronics,1,Online,FALSE,Digital Wallet,TRUE,Afternoon,Summer Sale,13,6,FALSE,FALSE,Medium,Medium,Offline Only,Online
+28,Male,Medium,Suburban,12,148,Furniture,9,Online,TRUE,Cash,FALSE,Afternoon,New Year Sale,15,3,FALSE,TRUE,High,High,Online Only,Online
+51,Male,Low,Urban,18,715,Home Appliances,10,Offline,FALSE,Digital Wallet,TRUE,Morning,Regular,10,2,FALSE,TRUE,Low,Medium,Online Only,Offline
+27,Female,High,Suburban,8,960,Furniture,5,Offline,TRUE,Debit Card,TRUE,Afternoon,New Year Sale,2,7,FALSE,TRUE,Low,Medium,Offline Only,Offline
+50,Male,High,Urban,7,258,Fashion,8,Online,FALSE,Cash,TRUE,Evening,Holiday Weekend,11,5,FALSE,FALSE,Low,High,Online Only,Online
+25,Female,High,Rural,14,493,Groceries,8,Online,TRUE,Debit Card,FALSE,Afternoon,Cyber Monday,9,8,FALSE,TRUE,Low,High,Online Only,Online
+30,Female,Low,Rural,10,794,Home Appliances,4,Online,TRUE,UPI,FALSE,Morning,New Year Sale,3,6,TRUE,FALSE,Medium,High,Online Only,Offline
+31,Female,High,Urban,5,477,Beauty Products,8,Online,FALSE,Credit Card,TRUE,Afternoon,Summer Sale,12,7,TRUE,FALSE,Medium,Low,Offline Only,Online
+30,Female,Low,Rural,13,660,Electronics,9,Online,FALSE,UPI,FALSE,Evening,New Year Sale,2,8,FALSE,FALSE,Low,High,Online Only,Online
+37,Female,Medium,Urban,13,815,Electronics,4,Offline,TRUE,Digital Wallet,TRUE,Morning,Cyber Monday,3,5,TRUE,FALSE,Medium,Low,Online Only,Online
+48,Female,Medium,Suburban,9,624,Fashion,8,Offline,TRUE,UPI,FALSE,Morning,Cyber Monday,9,5,TRUE,TRUE,High,Low,Online Only,Online
+48,Male,Medium,Urban,6,127,Electronics,8,Offline,TRUE,UPI,FALSE,Afternoon,Cyber Monday,11,2,TRUE,TRUE,Low,Medium,Offline Only,Offline
+37,Male,High,Rural,17,231,Home Appliances,5,Online,TRUE,Credit Card,FALSE,Afternoon,Regular,8,3,TRUE,TRUE,Medium,Low,Offline Only,Offline
+29,Female,High,Rural,3,413,Electronics,6,Online,FALSE,Cash,TRUE,Afternoon,Black Friday,10,1,TRUE,TRUE,High,Medium,Online Only,Offline
+52,Female,Low,Urban,14,507,Beauty Products,5,Offline,FALSE,Credit Card,FALSE,Morning,Regular,7,2,FALSE,TRUE,High,Low,Offline Only,Offline
+26,Male,High,Urban,17,780,Electronics,4,Online,FALSE,Debit Card,TRUE,Morning,Holiday Weekend,14,1,TRUE,FALSE,High,Medium,Offline Only,Offline
+32,Female,High,Rural,11,277,Beauty Products,8,Offline,TRUE,Digital Wallet,TRUE,Morning,Cyber Monday,7,3,FALSE,FALSE,High,Medium,Offline Only,Online
+23,Female,Medium,Rural,12,284,Electronics,4,Online,TRUE,Digital Wallet,FALSE,Afternoon,Cyber Monday,14,3,FALSE,TRUE,Medium,Medium,Online Only,Offline
+35,Male,High,Urban,15,691,Beauty Products,7,Online,FALSE,Digital Wallet,FALSE,Morning,Cyber Monday,13,8,TRUE,FALSE,Medium,Medium,Offline Only,Offline
+19,Female,Low,Urban,18,882,Furniture,5,Online,FALSE,Digital Wallet,FALSE,Evening,Holiday Weekend,4,8,TRUE,TRUE,High,High,Online Only,Offline
+22,Female,High,Urban,18,575,Furniture,4,Offline,FALSE,Digital Wallet,FALSE,Morning,Summer Sale,15,7,FALSE,FALSE,High,High,Online Only,Offline
+20,Male,High,Rural,17,251,Fashion,4,Online,TRUE,UPI,TRUE,Morning,Holiday Weekend,7,7,FALSE,FALSE,Medium,Medium,Online Only,Online
+19,Female,High,Urban,5,408,Groceries,5,Offline,TRUE,Credit Card,TRUE,Evening,New Year Sale,5,7,FALSE,TRUE,High,High,Offline Only,Online
+36,Male,Low,Urban,18,487,Beauty Products,3,Offline,TRUE,Credit Card,TRUE,Afternoon,New Year Sale,6,5,FALSE,TRUE,Medium,High,Offline Only,Offline
+43,Male,Medium,Suburban,5,326,Beauty Products,7,Online,FALSE,UPI,TRUE,Afternoon,Regular,3,8,FALSE,FALSE,High,Low,Offline Only,Offline
+47,Female,Low,Urban,18,256,Fashion,9,Online,TRUE,Digital Wallet,TRUE,Evening,Regular,9,2,FALSE,TRUE,High,High,Online Only,Offline
+18,Female,Medium,Urban,19,470,Groceries,6,Offline,TRUE,Credit Card,TRUE,Evening,Holiday Weekend,5,6,TRUE,TRUE,Low,Medium,Offline Only,Offline
+23,Male,Low,Rural,12,901,Fashion,7,Offline,TRUE,Debit Card,FALSE,Afternoon,Cyber Monday,1,2,TRUE,TRUE,High,Medium,Offline Only,Online
+32,Female,Medium,Suburban,3,533,Groceries,7,Online,TRUE,UPI,TRUE,Afternoon,Holiday Weekend,2,1,FALSE,FALSE,Low,Medium,Online Only,Offline
+42,Male,Medium,Rural,19,243,Furniture,1,Online,FALSE,UPI,TRUE,Afternoon,New Year Sale,7,2,FALSE,FALSE,Low,Medium,Online Only,Offline
+51,Male,High,Urban,18,282,Fashion,7,Offline,TRUE,Cash,FALSE,Afternoon,Holiday Weekend,2,8,TRUE,TRUE,Low,Medium,Online Only,Offline
+22,Male,Medium,Rural,6,319,Electronics,3,Online,TRUE,UPI,TRUE,Morning,Black Friday,7,3,FALSE,TRUE,Medium,Low,Offline Only,Online
+29,Female,High,Urban,10,819,Home Appliances,2,Online,FALSE,Credit Card,FALSE,Afternoon,Cyber Monday,4,4,FALSE,TRUE,High,Low,Offline Only,Online
+43,Male,Low,Rural,20,408,Beauty Products,7,Online,FALSE,Cash,TRUE,Morning,New Year Sale,8,2,TRUE,TRUE,Medium,Medium,Online Only,Online
+42,Male,Low,Rural,20,505,Electronics,1,Online,FALSE,UPI,FALSE,Morning,New Year Sale,4,2,TRUE,TRUE,High,Medium,Online Only,Online
+35,Female,Low,Urban,6,152,Fashion,2,Offline,TRUE,Credit Card,TRUE,Afternoon,Black Friday,8,6,FALSE,TRUE,Medium,Medium,Online Only,Online
+26,Female,Low,Rural,14,398,Fashion,5,Online,FALSE,Debit Card,FALSE,Morning,Summer Sale,4,4,FALSE,TRUE,Low,Low,Online Only,Online
+47,Male,High,Urban,13,320,Electronics,7,Online,TRUE,UPI,TRUE,Evening,Holiday Weekend,14,5,TRUE,TRUE,Medium,High,Offline Only,Online
+28,Male,High,Rural,14,870,Beauty Products,5,Offline,FALSE,Credit Card,TRUE,Afternoon,Regular,3,4,TRUE,FALSE,Low,High,Offline Only,Online
+45,Female,Low,Suburban,18,106,Home Appliances,3,Online,TRUE,Credit Card,FALSE,Morning,New Year Sale,11,5,TRUE,FALSE,Medium,Low,Offline Only,Offline
+33,Male,High,Rural,8,472,Fashion,8,Online,FALSE,UPI,FALSE,Morning,Cyber Monday,8,2,TRUE,TRUE,Low,Low,Online Only,Online
+44,Male,Medium,Suburban,18,568,Beauty Products,8,Offline,FALSE,Cash,FALSE,Afternoon,Cyber Monday,8,5,TRUE,FALSE,High,High,Offline Only,Offline
+49,Male,High,Urban,11,704,Home Appliances,7,Online,FALSE,Cash,TRUE,Afternoon,New Year Sale,2,7,TRUE,FALSE,High,Medium,Online Only,Offline
+40,Female,Low,Rural,15,653,Furniture,2,Online,TRUE,Credit Card,TRUE,Afternoon,Summer Sale,4,3,TRUE,TRUE,Low,Medium,Online Only,Offline
+20,Male,High,Suburban,18,798,Beauty Products,4,Offline,TRUE,Credit Card,TRUE,Evening,Black Friday,3,3,TRUE,TRUE,High,Low,Online Only,Online
+49,Male,Medium,Rural,20,781,Beauty Products,9,Offline,FALSE,Debit Card,TRUE,Afternoon,New Year Sale,13,3,FALSE,TRUE,Medium,High,Online Only,Offline
+24,Male,Low,Suburban,3,460,Electronics,9,Offline,FALSE,Debit Card,TRUE,Morning,New Year Sale,8,1,FALSE,FALSE,Medium,Low,Online Only,Offline
+24,Male,Low,Suburban,18,929,Groceries,10,Online,TRUE,Debit Card,TRUE,Morning,New Year Sale,5,7,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+43,Male,High,Rural,10,137,Home Appliances,9,Offline,FALSE,Cash,FALSE,Evening,Black Friday,9,5,FALSE,FALSE,Medium,Low,Online Only,Online
+21,Male,Medium,Rural,14,328,Electronics,6,Online,FALSE,Credit Card,FALSE,Evening,Summer Sale,14,8,TRUE,TRUE,Low,High,Online Only,Offline
+24,Female,Medium,Rural,19,802,Groceries,1,Online,TRUE,Credit Card,TRUE,Afternoon,Summer Sale,3,4,FALSE,FALSE,Low,Medium,Offline Only,Online
+49,Male,Medium,Rural,14,970,Furniture,7,Online,FALSE,UPI,TRUE,Morning,New Year Sale,5,1,TRUE,FALSE,High,Low,Online Only,Online
+47,Male,Low,Suburban,20,319,Groceries,5,Offline,FALSE,Credit Card,FALSE,Morning,Holiday Weekend,14,3,TRUE,FALSE,Medium,Medium,Online Only,Offline
+23,Male,Medium,Urban,5,183,Fashion,4,Offline,TRUE,Debit Card,TRUE,Morning,Cyber Monday,7,8,TRUE,TRUE,Medium,Medium,Online Only,Online
+35,Male,Medium,Suburban,17,889,Home Appliances,8,Online,TRUE,Cash,TRUE,Morning,Black Friday,11,1,TRUE,FALSE,Medium,Medium,Offline Only,Online
+42,Male,Medium,Urban,6,503,Home Appliances,2,Online,FALSE,Debit Card,FALSE,Evening,Cyber Monday,7,1,FALSE,FALSE,Low,Medium,Online Only,Offline
+28,Female,High,Urban,9,264,Beauty Products,8,Offline,TRUE,Cash,FALSE,Evening,Black Friday,10,8,TRUE,TRUE,High,High,Online Only,Online
+49,Female,Low,Urban,6,666,Furniture,7,Offline,TRUE,UPI,TRUE,Morning,Black Friday,7,1,FALSE,TRUE,High,Low,Offline Only,Online
+25,Male,High,Rural,9,477,Fashion,6,Online,TRUE,UPI,FALSE,Evening,Holiday Weekend,3,2,FALSE,FALSE,High,High,Offline Only,Online
+52,Male,High,Urban,16,243,Furniture,10,Online,FALSE,Digital Wallet,FALSE,Evening,Black Friday,7,5,FALSE,FALSE,High,Low,Offline Only,Online
+47,Male,Medium,Suburban,10,881,Beauty Products,5,Offline,TRUE,UPI,FALSE,Morning,Summer Sale,14,4,FALSE,TRUE,Medium,Medium,Online Only,Offline
+30,Male,Medium,Rural,8,763,Home Appliances,9,Online,TRUE,Digital Wallet,TRUE,Afternoon,Cyber Monday,6,5,FALSE,FALSE,High,High,Offline Only,Online
+24,Female,Low,Urban,3,663,Beauty Products,3,Online,FALSE,Credit Card,FALSE,Morning,New Year Sale,10,3,FALSE,FALSE,Low,Medium,Online Only,Offline
+28,Male,Medium,Urban,3,918,Home Appliances,6,Offline,TRUE,Debit Card,FALSE,Afternoon,Regular,8,4,FALSE,TRUE,High,Medium,Online Only,Offline
+44,Female,Low,Urban,7,942,Home Appliances,1,Offline,TRUE,Cash,TRUE,Morning,Black Friday,1,4,TRUE,FALSE,Low,High,Online Only,Online
+19,Male,Medium,Urban,14,340,Beauty Products,5,Online,TRUE,Cash,TRUE,Afternoon,Black Friday,6,7,FALSE,TRUE,High,High,Offline Only,Offline
+50,Female,Medium,Suburban,5,673,Furniture,5,Offline,FALSE,Debit Card,FALSE,Afternoon,Summer Sale,13,6,TRUE,TRUE,Medium,Low,Online Only,Online
+31,Male,Medium,Rural,16,498,Fashion,8,Offline,FALSE,Credit Card,FALSE,Morning,Summer Sale,5,7,FALSE,TRUE,Medium,Medium,Offline Only,Offline
+49,Male,Medium,Suburban,14,265,Electronics,2,Online,FALSE,Cash,TRUE,Morning,Black Friday,2,5,TRUE,FALSE,High,Low,Online Only,Online
+24,Female,High,Rural,19,153,Furniture,5,Offline,TRUE,Credit Card,FALSE,Evening,Summer Sale,12,7,FALSE,TRUE,Low,High,Offline Only,Offline
+40,Male,Low,Rural,3,556,Furniture,7,Offline,TRUE,Digital Wallet,FALSE,Morning,New Year Sale,1,7,TRUE,TRUE,High,Medium,Offline Only,Online
+35,Male,Medium,Suburban,16,618,Home Appliances,7,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Black Friday,15,5,TRUE,FALSE,Medium,Low,Offline Only,Online
+31,Female,Low,Urban,20,991,Beauty Products,5,Online,TRUE,UPI,TRUE,Morning,Holiday Weekend,15,4,FALSE,TRUE,Medium,High,Offline Only,Online
+41,Male,Low,Suburban,19,847,Home Appliances,3,Offline,TRUE,Debit Card,TRUE,Afternoon,New Year Sale,5,6,FALSE,FALSE,Medium,Low,Offline Only,Offline
+44,Female,High,Suburban,14,944,Electronics,4,Online,FALSE,UPI,FALSE,Afternoon,New Year Sale,3,5,FALSE,FALSE,Medium,Medium,Offline Only,Online
+21,Female,Low,Rural,20,827,Groceries,2,Offline,FALSE,Cash,TRUE,Evening,Black Friday,4,3,FALSE,FALSE,High,Medium,Online Only,Offline
+28,Female,Low,Rural,18,553,Groceries,8,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Regular,6,4,TRUE,FALSE,Medium,Medium,Offline Only,Offline
+26,Male,Low,Rural,4,548,Electronics,10,Offline,TRUE,Debit Card,FALSE,Evening,Regular,14,6,FALSE,FALSE,Low,Low,Online Only,Offline
+24,Male,Low,Rural,4,201,Fashion,1,Online,TRUE,Cash,FALSE,Afternoon,New Year Sale,5,8,FALSE,FALSE,High,Medium,Online Only,Online
+50,Male,High,Suburban,4,943,Fashion,4,Offline,TRUE,Debit Card,TRUE,Morning,Holiday Weekend,15,2,TRUE,TRUE,Medium,Low,Online Only,Offline
+48,Male,Low,Urban,12,644,Beauty Products,3,Online,TRUE,Digital Wallet,FALSE,Evening,Holiday Weekend,5,6,TRUE,FALSE,High,High,Online Only,Offline
+39,Female,Low,Rural,11,597,Beauty Products,4,Online,FALSE,Cash,FALSE,Afternoon,Summer Sale,13,2,FALSE,TRUE,Low,High,Offline Only,Online
+19,Female,High,Urban,20,972,Home Appliances,3,Offline,TRUE,Cash,FALSE,Evening,Black Friday,8,1,TRUE,TRUE,Medium,High,Offline Only,Offline
+44,Male,Low,Urban,18,851,Furniture,4,Online,FALSE,Digital Wallet,TRUE,Evening,New Year Sale,4,2,FALSE,TRUE,Low,Low,Offline Only,Offline
+43,Male,High,Suburban,4,868,Home Appliances,10,Online,TRUE,Cash,FALSE,Morning,Regular,9,8,FALSE,TRUE,High,Low,Offline Only,Offline
+25,Female,Medium,Urban,20,363,Fashion,9,Online,TRUE,Cash,TRUE,Afternoon,Summer Sale,7,2,TRUE,FALSE,Low,High,Online Only,Online
+44,Male,Low,Rural,19,116,Beauty Products,10,Online,TRUE,Digital Wallet,FALSE,Afternoon,Cyber Monday,13,8,TRUE,TRUE,High,High,Offline Only,Online
+22,Female,Medium,Urban,8,665,Electronics,3,Online,FALSE,Cash,TRUE,Afternoon,Black Friday,8,6,TRUE,TRUE,Low,High,Online Only,Offline
+18,Female,Low,Suburban,6,562,Beauty Products,8,Online,TRUE,Digital Wallet,TRUE,Morning,Black Friday,8,5,TRUE,FALSE,Low,Medium,Online Only,Online
+34,Male,Medium,Rural,16,669,Fashion,5,Offline,TRUE,Cash,FALSE,Afternoon,Cyber Monday,8,1,FALSE,FALSE,Medium,Low,Online Only,Online
+41,Female,Medium,Rural,3,318,Home Appliances,1,Offline,FALSE,UPI,FALSE,Evening,Cyber Monday,4,1,TRUE,FALSE,Medium,Low,Offline Only,Offline
+27,Female,High,Urban,10,281,Fashion,7,Offline,FALSE,Credit Card,TRUE,Morning,Regular,8,7,TRUE,TRUE,Medium,Medium,Offline Only,Offline
+19,Male,High,Rural,20,310,Groceries,9,Online,TRUE,Digital Wallet,FALSE,Morning,New Year Sale,12,4,FALSE,TRUE,High,High,Offline Only,Offline
+27,Male,Medium,Urban,14,713,Home Appliances,3,Offline,TRUE,UPI,FALSE,Morning,New Year Sale,10,6,TRUE,TRUE,Low,High,Offline Only,Offline
+26,Female,Medium,Rural,20,599,Furniture,1,Online,FALSE,Cash,FALSE,Morning,Regular,3,3,FALSE,TRUE,Medium,Low,Online Only,Online
+43,Female,Medium,Suburban,20,741,Electronics,5,Offline,TRUE,Digital Wallet,TRUE,Afternoon,Cyber Monday,9,7,FALSE,FALSE,Low,Medium,Online Only,Offline
+23,Male,Low,Rural,19,824,Home Appliances,9,Offline,TRUE,Debit Card,FALSE,Morning,New Year Sale,7,3,TRUE,TRUE,Low,High,Online Only,Online
+19,Female,Low,Rural,11,765,Furniture,2,Offline,FALSE,UPI,FALSE,Morning,New Year Sale,15,8,TRUE,TRUE,Low,Medium,Offline Only,Online
+33,Female,Medium,Suburban,16,390,Fashion,8,Offline,FALSE,Credit Card,FALSE,Evening,Regular,11,5,FALSE,FALSE,Medium,High,Offline Only,Online
+31,Male,High,Rural,3,921,Home Appliances,4,Offline,FALSE,Cash,TRUE,Morning,Holiday Weekend,4,4,TRUE,TRUE,Medium,High,Offline Only,Offline
+38,Male,Medium,Urban,20,480,Electronics,2,Online,TRUE,Digital Wallet,FALSE,Evening,Holiday Weekend,7,1,TRUE,FALSE,High,Low,Offline Only,Offline
+26,Male,High,Urban,7,281,Furniture,3,Online,FALSE,UPI,TRUE,Morning,Black Friday,8,6,FALSE,TRUE,Low,Medium,Offline Only,Offline
+30,Female,High,Suburban,12,845,Home Appliances,8,Offline,TRUE,Credit Card,TRUE,Evening,Holiday Weekend,11,5,TRUE,FALSE,High,Medium,Online Only,Online
+38,Male,Medium,Rural,8,708,Beauty Products,3,Offline,TRUE,Credit Card,TRUE,Morning,Black Friday,7,4,TRUE,FALSE,Low,High,Offline Only,Online
+31,Male,High,Rural,8,650,Beauty Products,9,Online,FALSE,UPI,TRUE,Evening,New Year Sale,6,2,TRUE,FALSE,Medium,Medium,Online Only,Offline
+40,Male,Low,Urban,14,979,Groceries,4,Online,TRUE,Digital Wallet,FALSE,Afternoon,Black Friday,11,4,FALSE,FALSE,Low,High,Offline Only,Online
+42,Female,High,Urban,10,400,Home Appliances,9,Online,TRUE,Credit Card,FALSE,Evening,Summer Sale,7,8,FALSE,TRUE,Medium,Medium,Offline Only,Online
+33,Female,Medium,Suburban,20,116,Fashion,4,Offline,TRUE,Digital Wallet,FALSE,Evening,Regular,4,3,TRUE,FALSE,High,High,Offline Only,Offline
+24,Male,High,Urban,5,558,Electronics,9,Offline,TRUE,UPI,TRUE,Morning,New Year Sale,13,3,FALSE,TRUE,Medium,High,Offline Only,Offline
+20,Female,Low,Rural,6,469,Groceries,10,Offline,TRUE,Debit Card,FALSE,Morning,Cyber Monday,8,5,TRUE,FALSE,High,Medium,Online Only,Offline
+48,Male,High,Rural,7,254,Home Appliances,8,Online,FALSE,Credit Card,TRUE,Evening,Regular,13,7,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+24,Female,Low,Suburban,5,436,Groceries,5,Offline,FALSE,UPI,TRUE,Morning,New Year Sale,11,1,TRUE,FALSE,Low,High,Offline Only,Offline
+29,Male,Low,Rural,5,186,Beauty Products,1,Offline,FALSE,Cash,TRUE,Afternoon,Holiday Weekend,5,5,FALSE,FALSE,Medium,Medium,Offline Only,Online
+18,Female,Medium,Urban,17,457,Home Appliances,4,Online,FALSE,Debit Card,FALSE,Morning,Black Friday,13,1,FALSE,TRUE,Medium,Medium,Offline Only,Offline
+27,Female,Medium,Suburban,13,580,Groceries,4,Offline,FALSE,Cash,FALSE,Morning,Cyber Monday,9,8,FALSE,TRUE,Medium,High,Offline Only,Online
+40,Female,High,Rural,13,832,Home Appliances,1,Online,FALSE,UPI,FALSE,Afternoon,Black Friday,11,6,FALSE,TRUE,High,Medium,Offline Only,Offline
+40,Male,Medium,Suburban,4,372,Electronics,9,Online,FALSE,UPI,TRUE,Evening,Black Friday,6,2,TRUE,TRUE,Medium,Low,Offline Only,Offline
+29,Female,Medium,Rural,12,317,Furniture,5,Online,FALSE,Credit Card,TRUE,Evening,Black Friday,7,2,FALSE,TRUE,Low,Medium,Online Only,Online
+43,Female,High,Suburban,20,777,Beauty Products,1,Offline,TRUE,Credit Card,FALSE,Afternoon,Holiday Weekend,13,5,TRUE,TRUE,High,Medium,Online Only,Online
+30,Female,Medium,Urban,7,651,Beauty Products,8,Online,FALSE,Cash,FALSE,Evening,Regular,15,5,FALSE,TRUE,Medium,High,Online Only,Offline
+51,Female,Medium,Rural,14,172,Furniture,6,Offline,FALSE,Digital Wallet,FALSE,Morning,Cyber Monday,15,3,TRUE,FALSE,High,Medium,Offline Only,Offline
+38,Female,Medium,Rural,4,847,Beauty Products,6,Online,TRUE,Credit Card,FALSE,Afternoon,Summer Sale,5,1,TRUE,TRUE,Low,Medium,Online Only,Online
+50,Female,Medium,Suburban,4,355,Groceries,10,Offline,TRUE,Digital Wallet,FALSE,Morning,Black Friday,5,2,TRUE,FALSE,Medium,High,Offline Only,Online
+40,Male,High,Rural,7,920,Fashion,8,Online,FALSE,UPI,TRUE,Afternoon,Black Friday,6,4,TRUE,FALSE,Low,Medium,Offline Only,Online
+52,Female,Medium,Suburban,15,158,Furniture,4,Offline,FALSE,Digital Wallet,FALSE,Morning,Summer Sale,13,1,TRUE,FALSE,Medium,Medium,Offline Only,Online
+40,Female,Medium,Urban,14,207,Home Appliances,9,Online,TRUE,Cash,FALSE,Evening,Black Friday,3,8,TRUE,FALSE,Low,High,Offline Only,Offline
+44,Male,Low,Urban,11,496,Furniture,3,Online,FALSE,Debit Card,TRUE,Evening,Summer Sale,11,2,TRUE,TRUE,Low,Low,Online Only,Online
+32,Female,High,Rural,5,489,Furniture,9,Online,FALSE,Debit Card,FALSE,Evening,Holiday Weekend,3,6,TRUE,TRUE,Medium,Medium,Online Only,Offline
+42,Female,High,Urban,4,110,Electronics,3,Online,TRUE,Credit Card,TRUE,Morning,New Year Sale,1,2,TRUE,FALSE,High,Low,Online Only,Offline
+50,Female,Low,Urban,5,208,Furniture,3,Online,TRUE,Debit Card,TRUE,Evening,Black Friday,2,1,TRUE,TRUE,High,Medium,Offline Only,Online
+30,Male,Low,Rural,13,936,Beauty Products,6,Offline,TRUE,Debit Card,TRUE,Afternoon,Holiday Weekend,10,2,TRUE,FALSE,Medium,High,Online Only,Offline
+52,Female,Medium,Suburban,7,987,Furniture,10,Online,FALSE,UPI,FALSE,Evening,Black Friday,7,5,FALSE,TRUE,High,Medium,Offline Only,Online
+26,Female,High,Rural,12,665,Electronics,8,Offline,FALSE,Digital Wallet,TRUE,Evening,Cyber Monday,3,5,FALSE,TRUE,Medium,Low,Offline Only,Online
+48,Female,Medium,Rural,10,197,Fashion,1,Online,TRUE,Digital Wallet,TRUE,Evening,Summer Sale,2,6,TRUE,TRUE,High,Medium,Offline Only,Online
+29,Male,High,Urban,11,406,Beauty Products,10,Offline,TRUE,Cash,FALSE,Evening,Cyber Monday,5,8,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+42,Male,Medium,Suburban,17,991,Furniture,8,Offline,FALSE,Digital Wallet,TRUE,Afternoon,Regular,9,4,TRUE,FALSE,Low,High,Online Only,Offline
+46,Male,Medium,Urban,16,183,Home Appliances,10,Online,TRUE,Debit Card,TRUE,Evening,Black Friday,10,5,FALSE,TRUE,High,Low,Online Only,Online
+47,Male,Medium,Suburban,10,350,Beauty Products,3,Online,TRUE,UPI,FALSE,Afternoon,Holiday Weekend,11,5,FALSE,TRUE,High,High,Offline Only,Online
+18,Female,High,Urban,13,708,Home Appliances,3,Offline,TRUE,UPI,FALSE,Evening,Black Friday,1,1,TRUE,TRUE,High,High,Online Only,Offline
+51,Male,Medium,Suburban,15,739,Furniture,2,Offline,TRUE,Cash,TRUE,Evening,Regular,8,4,TRUE,FALSE,High,Low,Online Only,Online
+28,Female,Medium,Urban,20,414,Groceries,3,Online,TRUE,Credit Card,FALSE,Morning,Holiday Weekend,7,8,TRUE,FALSE,Low,Low,Online Only,Offline
+27,Male,High,Urban,17,340,Furniture,8,Online,TRUE,Cash,TRUE,Evening,Holiday Weekend,12,7,FALSE,TRUE,Medium,Low,Online Only,Online
+20,Male,Low,Urban,4,436,Home Appliances,5,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Holiday Weekend,13,1,FALSE,TRUE,High,High,Online Only,Online
+46,Female,Low,Rural,8,498,Home Appliances,2,Online,TRUE,Cash,TRUE,Afternoon,New Year Sale,5,2,FALSE,FALSE,High,Low,Online Only,Online
+18,Female,Low,Urban,19,377,Fashion,4,Offline,TRUE,Credit Card,TRUE,Afternoon,Regular,10,1,FALSE,FALSE,Medium,High,Offline Only,Offline
+43,Female,Medium,Suburban,20,287,Groceries,10,Offline,FALSE,Credit Card,TRUE,Afternoon,New Year Sale,11,5,FALSE,TRUE,Medium,Medium,Offline Only,Offline
+46,Male,Medium,Suburban,14,918,Furniture,6,Online,TRUE,Digital Wallet,FALSE,Morning,Black Friday,1,4,TRUE,TRUE,Low,High,Offline Only,Online
+40,Male,Low,Rural,6,637,Beauty Products,5,Offline,TRUE,Digital Wallet,FALSE,Morning,Regular,9,6,FALSE,TRUE,High,Medium,Online Only,Offline
+43,Male,Medium,Suburban,13,379,Fashion,1,Offline,FALSE,UPI,FALSE,Morning,Black Friday,3,7,FALSE,FALSE,Medium,High,Online Only,Offline
+41,Female,Low,Urban,5,796,Electronics,5,Offline,FALSE,Digital Wallet,FALSE,Afternoon,New Year Sale,12,4,FALSE,TRUE,Low,Low,Online Only,Online
+48,Male,Low,Urban,20,902,Furniture,7,Online,FALSE,Credit Card,TRUE,Afternoon,Holiday Weekend,11,7,FALSE,TRUE,Low,High,Offline Only,Online
+19,Male,Low,Rural,14,659,Beauty Products,4,Offline,FALSE,UPI,FALSE,Afternoon,Cyber Monday,12,3,FALSE,FALSE,Medium,High,Offline Only,Online
+45,Female,Medium,Suburban,5,412,Beauty Products,6,Online,FALSE,Credit Card,TRUE,Evening,Holiday Weekend,5,7,FALSE,TRUE,Low,Medium,Offline Only,Offline
+48,Female,Medium,Urban,3,486,Beauty Products,7,Online,FALSE,Debit Card,FALSE,Evening,Regular,12,1,FALSE,FALSE,Low,High,Online Only,Online
+43,Male,Medium,Suburban,14,290,Beauty Products,10,Online,FALSE,Credit Card,TRUE,Evening,Holiday Weekend,2,3,FALSE,TRUE,High,Medium,Online Only,Online
+38,Male,Low,Rural,14,656,Electronics,8,Online,TRUE,Cash,FALSE,Morning,Cyber Monday,11,2,TRUE,FALSE,Low,High,Online Only,Online
+44,Male,High,Urban,16,771,Furniture,8,Online,FALSE,Digital Wallet,TRUE,Afternoon,Cyber Monday,5,2,TRUE,FALSE,High,High,Offline Only,Offline
+45,Male,Low,Urban,8,116,Fashion,10,Online,TRUE,UPI,FALSE,Morning,Regular,4,5,FALSE,FALSE,High,High,Online Only,Online
+30,Male,High,Rural,12,913,Home Appliances,8,Offline,TRUE,Cash,FALSE,Afternoon,Black Friday,15,7,FALSE,FALSE,High,Low,Online Only,Offline
+36,Male,Medium,Urban,20,994,Beauty Products,9,Online,TRUE,Digital Wallet,TRUE,Evening,Black Friday,3,1,FALSE,TRUE,High,High,Offline Only,Online
+51,Female,Medium,Urban,9,492,Groceries,10,Online,FALSE,Credit Card,TRUE,Morning,Regular,6,8,FALSE,FALSE,Low,Low,Offline Only,Online
+46,Male,Medium,Rural,19,746,Groceries,10,Offline,TRUE,Debit Card,TRUE,Afternoon,Cyber Monday,1,4,TRUE,TRUE,High,High,Online Only,Online
+49,Female,Low,Suburban,11,412,Fashion,4,Offline,TRUE,Credit Card,TRUE,Afternoon,Black Friday,4,6,TRUE,TRUE,High,Low,Online Only,Online
+32,Female,High,Suburban,12,304,Beauty Products,1,Online,FALSE,Cash,TRUE,Morning,Summer Sale,12,7,TRUE,FALSE,Low,Low,Online Only,Online
+32,Female,Medium,Urban,18,438,Beauty Products,2,Offline,TRUE,Digital Wallet,TRUE,Evening,New Year Sale,9,1,FALSE,FALSE,Medium,High,Online Only,Offline
+21,Male,High,Urban,17,237,Home Appliances,7,Offline,FALSE,Cash,FALSE,Morning,Holiday Weekend,8,8,FALSE,FALSE,Low,Low,Offline Only,Offline
+27,Female,Medium,Suburban,9,341,Electronics,2,Online,FALSE,Cash,TRUE,Evening,New Year Sale,14,3,TRUE,TRUE,Low,Low,Offline Only,Offline
+40,Female,Medium,Urban,11,470,Furniture,6,Online,FALSE,Cash,FALSE,Evening,New Year Sale,13,2,FALSE,TRUE,Medium,Medium,Online Only,Offline
+37,Female,High,Urban,13,244,Home Appliances,2,Online,FALSE,Credit Card,TRUE,Evening,Black Friday,1,6,TRUE,TRUE,Medium,Low,Online Only,Online
+20,Female,High,Suburban,16,532,Home Appliances,9,Online,TRUE,Cash,FALSE,Morning,Summer Sale,4,1,TRUE,FALSE,Medium,Low,Online Only,Online
+48,Male,Medium,Urban,7,555,Beauty Products,5,Online,FALSE,UPI,FALSE,Morning,Cyber Monday,6,7,TRUE,FALSE,Low,High,Online Only,Online
+25,Female,Low,Urban,20,397,Home Appliances,1,Offline,TRUE,Digital Wallet,TRUE,Afternoon,Black Friday,3,8,TRUE,FALSE,Medium,Low,Online Only,Offline
+39,Female,Low,Suburban,7,954,Furniture,2,Offline,FALSE,Debit Card,FALSE,Afternoon,Holiday Weekend,6,4,FALSE,TRUE,Low,Medium,Offline Only,Online
+27,Female,High,Urban,17,719,Beauty Products,8,Offline,TRUE,Digital Wallet,TRUE,Evening,Cyber Monday,7,7,TRUE,TRUE,Medium,High,Online Only,Online
+26,Female,Medium,Rural,15,554,Electronics,3,Offline,FALSE,Debit Card,FALSE,Afternoon,New Year Sale,9,6,FALSE,TRUE,Low,High,Offline Only,Online
+41,Male,High,Urban,7,352,Electronics,2,Offline,FALSE,Digital Wallet,FALSE,Morning,Regular,2,1,FALSE,TRUE,Low,Medium,Offline Only,Offline
+24,Female,High,Rural,10,689,Furniture,6,Offline,FALSE,Credit Card,TRUE,Evening,Regular,13,5,TRUE,FALSE,Low,Low,Online Only,Online
+32,Male,Low,Rural,7,953,Electronics,4,Offline,FALSE,Debit Card,FALSE,Afternoon,Cyber Monday,12,8,FALSE,FALSE,Low,Low,Online Only,Online
+49,Male,Medium,Urban,12,549,Fashion,2,Online,FALSE,Digital Wallet,TRUE,Afternoon,Black Friday,15,7,TRUE,TRUE,Medium,Low,Offline Only,Offline
+46,Female,Low,Suburban,8,739,Home Appliances,9,Online,FALSE,Cash,FALSE,Morning,Cyber Monday,11,1,TRUE,FALSE,Medium,High,Offline Only,Online
+21,Female,Low,Urban,20,451,Electronics,7,Online,TRUE,Digital Wallet,FALSE,Afternoon,Black Friday,4,7,FALSE,FALSE,Low,Low,Offline Only,Offline
+49,Male,Medium,Suburban,17,830,Beauty Products,8,Offline,FALSE,UPI,FALSE,Evening,Black Friday,7,6,TRUE,FALSE,Medium,High,Online Only,Offline
+43,Female,Medium,Rural,14,248,Electronics,3,Online,FALSE,UPI,TRUE,Morning,Holiday Weekend,1,6,TRUE,FALSE,High,High,Online Only,Online
+24,Male,Low,Urban,20,580,Home Appliances,1,Offline,FALSE,Digital Wallet,TRUE,Evening,Cyber Monday,10,3,TRUE,FALSE,Medium,Low,Offline Only,Offline
+42,Female,Medium,Urban,13,891,Beauty Products,2,Online,TRUE,Cash,TRUE,Morning,Cyber Monday,12,2,FALSE,TRUE,Low,High,Offline Only,Online
+24,Female,High,Urban,4,206,Electronics,4,Online,TRUE,UPI,TRUE,Morning,New Year Sale,6,3,TRUE,TRUE,Medium,Low,Online Only,Offline
+52,Female,Low,Suburban,19,243,Fashion,2,Offline,FALSE,Debit Card,FALSE,Afternoon,Cyber Monday,15,3,FALSE,TRUE,High,High,Online Only,Offline
+31,Male,Low,Suburban,7,725,Fashion,5,Offline,TRUE,Digital Wallet,TRUE,Evening,Black Friday,13,2,FALSE,FALSE,Low,High,Offline Only,Offline
+37,Female,Medium,Rural,10,915,Fashion,5,Offline,TRUE,Cash,FALSE,Afternoon,Cyber Monday,4,4,TRUE,TRUE,Medium,Medium,Online Only,Offline
+26,Male,High,Rural,20,682,Electronics,3,Online,FALSE,Credit Card,TRUE,Afternoon,Black Friday,8,5,TRUE,FALSE,High,Low,Online Only,Offline
+36,Male,Low,Suburban,14,392,Furniture,5,Offline,TRUE,Cash,TRUE,Afternoon,Cyber Monday,7,7,TRUE,FALSE,Medium,Medium,Offline Only,Online
+32,Female,Low,Suburban,11,143,Furniture,7,Online,FALSE,Debit Card,TRUE,Afternoon,Cyber Monday,8,3,FALSE,FALSE,High,Low,Online Only,Offline
+18,Male,High,Rural,19,629,Fashion,3,Online,TRUE,Credit Card,TRUE,Evening,New Year Sale,11,7,FALSE,TRUE,Low,Low,Online Only,Offline
+33,Male,High,Urban,19,557,Beauty Products,2,Offline,FALSE,Digital Wallet,TRUE,Evening,Cyber Monday,13,5,FALSE,FALSE,Low,Low,Offline Only,Offline
+45,Female,High,Urban,16,888,Fashion,2,Offline,TRUE,Digital Wallet,FALSE,Morning,New Year Sale,6,1,FALSE,TRUE,Medium,High,Offline Only,Online
+20,Female,Medium,Rural,12,394,Furniture,1,Offline,FALSE,Digital Wallet,FALSE,Afternoon,Holiday Weekend,3,6,FALSE,TRUE,High,Medium,Offline Only,Offline
+29,Male,Low,Rural,4,982,Beauty Products,7,Offline,FALSE,UPI,FALSE,Morning,New Year Sale,6,8,FALSE,FALSE,Low,High,Online Only,Offline
+33,Male,Medium,Rural,14,519,Beauty Products,3,Online,TRUE,Debit Card,FALSE,Morning,Holiday Weekend,12,3,TRUE,FALSE,Low,High,Online Only,Online
+21,Female,Medium,Suburban,19,230,Electronics,1,Offline,TRUE,UPI,FALSE,Morning,Holiday Weekend,14,4,FALSE,TRUE,Medium,High,Online Only,Offline
+41,Female,Low,Urban,8,668,Electronics,5,Offline,FALSE,Credit Card,FALSE,Morning,Summer Sale,13,7,FALSE,FALSE,Low,Medium,Online Only,Offline
+41,Male,Low,Urban,17,627,Beauty Products,1,Online,TRUE,Debit Card,FALSE,Evening,Cyber Monday,4,1,FALSE,FALSE,High,Low,Online Only,Online
+27,Male,Medium,Urban,16,722,Furniture,6,Online,FALSE,Cash,FALSE,Afternoon,Regular,11,7,TRUE,FALSE,Medium,Low,Offline Only,Online
+26,Male,Medium,Suburban,6,494,Electronics,9,Online,FALSE,Digital Wallet,TRUE,Evening,Regular,5,7,FALSE,TRUE,Medium,Medium,Online Only,Online
+37,Male,High,Urban,19,264,Furniture,9,Offline,FALSE,Digital Wallet,TRUE,Evening,Black Friday,15,7,TRUE,FALSE,Medium,Medium,Offline Only,Online
+38,Female,Medium,Rural,19,594,Home Appliances,9,Offline,FALSE,Credit Card,TRUE,Evening,Cyber Monday,9,6,FALSE,TRUE,Low,Medium,Offline Only,Offline
+36,Male,High,Rural,6,485,Fashion,2,Online,TRUE,Digital Wallet,FALSE,Afternoon,Cyber Monday,15,4,FALSE,TRUE,Medium,Medium,Offline Only,Offline
+20,Male,High,Urban,5,793,Electronics,9,Offline,TRUE,UPI,TRUE,Evening,Holiday Weekend,2,1,TRUE,FALSE,Medium,Low,Offline Only,Offline
+52,Female,Medium,Urban,14,146,Furniture,3,Offline,FALSE,Cash,TRUE,Morning,Black Friday,2,5,TRUE,FALSE,High,Medium,Online Only,Online
+36,Male,High,Suburban,11,851,Electronics,10,Online,FALSE,Cash,TRUE,Evening,Regular,3,1,TRUE,TRUE,Low,Low,Offline Only,Online
+30,Male,Medium,Rural,15,737,Groceries,3,Offline,FALSE,Digital Wallet,FALSE,Morning,Regular,3,1,FALSE,TRUE,High,Low,Online Only,Online
+37,Female,High,Urban,16,454,Groceries,2,Online,TRUE,Cash,TRUE,Morning,Summer Sale,8,6,FALSE,FALSE,Medium,Low,Offline Only,Online
+45,Female,Medium,Urban,6,218,Electronics,4,Online,TRUE,Debit Card,FALSE,Evening,Holiday Weekend,8,3,TRUE,TRUE,Low,High,Offline Only,Offline
+38,Male,Low,Rural,16,133,Fashion,4,Offline,TRUE,Debit Card,TRUE,Afternoon,New Year Sale,1,1,TRUE,TRUE,Low,High,Online Only,Offline
+27,Male,High,Rural,18,382,Beauty Products,7,Online,FALSE,Debit Card,TRUE,Afternoon,Summer Sale,9,4,TRUE,TRUE,High,Medium,Offline Only,Online
+36,Female,Low,Rural,7,975,Home Appliances,9,Offline,TRUE,Digital Wallet,TRUE,Afternoon,New Year Sale,8,5,TRUE,TRUE,Medium,Medium,Online Only,Offline
+38,Female,Medium,Rural,6,353,Furniture,6,Offline,TRUE,Digital Wallet,TRUE,Morning,Holiday Weekend,12,5,FALSE,FALSE,Low,High,Online Only,Offline
+52,Female,Medium,Urban,8,941,Fashion,9,Offline,TRUE,UPI,TRUE,Evening,Black Friday,15,6,TRUE,FALSE,Medium,Low,Online Only,Online
+38,Male,Medium,Rural,17,378,Fashion,3,Offline,TRUE,UPI,TRUE,Morning,Summer Sale,14,3,TRUE,FALSE,High,Medium,Online Only,Online
+37,Female,High,Suburban,14,399,Electronics,1,Offline,FALSE,UPI,TRUE,Afternoon,Cyber Monday,12,3,TRUE,TRUE,High,High,Offline Only,Offline
+32,Female,Medium,Rural,15,936,Home Appliances,8,Offline,TRUE,Credit Card,TRUE,Evening,New Year Sale,1,1,TRUE,FALSE,Medium,Medium,Online Only,Offline
+40,Female,Medium,Suburban,6,260,Electronics,9,Offline,FALSE,Digital Wallet,TRUE,Evening,Black Friday,4,5,FALSE,FALSE,Low,Low,Online Only,Offline
+20,Male,Low,Rural,16,242,Beauty Products,6,Offline,FALSE,UPI,TRUE,Morning,Holiday Weekend,12,3,FALSE,TRUE,Low,Medium,Online Only,Offline
+43,Male,Low,Rural,7,309,Furniture,9,Online,FALSE,Digital Wallet,FALSE,Morning,New Year Sale,4,6,FALSE,TRUE,Medium,Medium,Online Only,Online
+42,Male,Low,Rural,17,416,Electronics,8,Online,FALSE,Cash,TRUE,Evening,Summer Sale,1,3,FALSE,FALSE,Low,Low,Online Only,Online
+52,Female,Low,Urban,14,849,Groceries,4,Online,TRUE,UPI,FALSE,Evening,Black Friday,12,2,TRUE,FALSE,High,Low,Online Only,Offline
+40,Male,High,Suburban,13,757,Beauty Products,1,Offline,TRUE,Cash,TRUE,Evening,New Year Sale,10,1,FALSE,FALSE,Low,High,Online Only,Online
+21,Female,Medium,Suburban,6,662,Fashion,10,Offline,TRUE,Digital Wallet,FALSE,Evening,Holiday Weekend,15,5,FALSE,FALSE,Low,High,Offline Only,Offline
+45,Female,Low,Rural,8,282,Groceries,3,Online,TRUE,Digital Wallet,FALSE,Morning,New Year Sale,6,1,TRUE,TRUE,Low,Medium,Offline Only,Online
+31,Male,Low,Suburban,19,164,Electronics,7,Online,TRUE,UPI,FALSE,Evening,Cyber Monday,11,4,TRUE,FALSE,Medium,Medium,Online Only,Offline
+33,Female,High,Rural,14,852,Groceries,2,Online,FALSE,UPI,FALSE,Evening,Cyber Monday,15,3,TRUE,FALSE,Low,High,Offline Only,Online
+42,Male,Low,Suburban,13,347,Beauty Products,8,Offline,FALSE,UPI,FALSE,Morning,Cyber Monday,1,1,TRUE,TRUE,High,Medium,Online Only,Offline
+32,Female,Low,Rural,6,579,Electronics,9,Online,FALSE,UPI,TRUE,Afternoon,Cyber Monday,11,3,TRUE,TRUE,Low,Low,Offline Only,Online
+44,Female,Medium,Urban,14,822,Fashion,3,Offline,TRUE,Digital Wallet,TRUE,Afternoon,New Year Sale,2,5,TRUE,TRUE,Low,High,Online Only,Online
+46,Male,Low,Suburban,4,240,Furniture,10,Online,TRUE,UPI,TRUE,Afternoon,Summer Sale,10,7,FALSE,FALSE,Medium,High,Offline Only,Offline
+18,Female,High,Rural,14,578,Groceries,2,Online,TRUE,UPI,FALSE,Morning,Cyber Monday,9,1,FALSE,FALSE,Low,Medium,Offline Only,Online
+30,Male,Low,Rural,14,940,Furniture,3,Online,FALSE,Debit Card,FALSE,Afternoon,New Year Sale,9,3,FALSE,FALSE,Medium,Low,Online Only,Online
+40,Female,Low,Rural,18,255,Furniture,5,Offline,TRUE,UPI,FALSE,Morning,New Year Sale,4,5,TRUE,FALSE,Medium,Low,Offline Only,Online
+21,Female,High,Urban,16,683,Electronics,9,Offline,FALSE,Digital Wallet,TRUE,Afternoon,Black Friday,7,4,FALSE,TRUE,High,Low,Online Only,Online
+45,Female,High,Urban,10,845,Furniture,9,Online,FALSE,Cash,TRUE,Morning,Black Friday,13,1,FALSE,TRUE,Low,Low,Offline Only,Online
+20,Male,High,Suburban,17,611,Beauty Products,6,Offline,TRUE,Cash,TRUE,Afternoon,Summer Sale,9,2,FALSE,FALSE,High,Low,Online Only,Offline
+37,Male,High,Urban,20,451,Fashion,9,Online,FALSE,UPI,FALSE,Morning,Holiday Weekend,8,6,TRUE,TRUE,Low,Medium,Offline Only,Offline
+49,Female,Medium,Rural,7,778,Beauty Products,1,Offline,TRUE,UPI,FALSE,Afternoon,Regular,1,1,TRUE,TRUE,Medium,High,Online Only,Online
+39,Male,High,Suburban,4,854,Groceries,8,Online,TRUE,Credit Card,TRUE,Morning,Black Friday,1,5,FALSE,FALSE,Low,High,Online Only,Online
+50,Male,Medium,Urban,8,386,Fashion,9,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Summer Sale,12,5,TRUE,FALSE,Low,High,Offline Only,Online
+19,Female,High,Suburban,20,946,Electronics,6,Offline,FALSE,Credit Card,FALSE,Evening,New Year Sale,3,6,TRUE,TRUE,Low,High,Online Only,Online
+20,Male,Low,Suburban,12,513,Home Appliances,6,Online,TRUE,Cash,FALSE,Afternoon,Regular,5,7,TRUE,FALSE,Low,Low,Offline Only,Online
+29,Female,High,Rural,10,345,Electronics,9,Online,FALSE,Digital Wallet,FALSE,Afternoon,Summer Sale,14,7,TRUE,FALSE,Low,Medium,Offline Only,Online
+23,Male,Medium,Suburban,13,400,Fashion,4,Online,TRUE,Debit Card,TRUE,Morning,New Year Sale,6,6,TRUE,TRUE,Medium,Low,Offline Only,Online
+46,Female,Medium,Suburban,15,811,Home Appliances,10,Offline,TRUE,Digital Wallet,TRUE,Afternoon,Cyber Monday,4,7,TRUE,TRUE,Low,Medium,Online Only,Online
+22,Female,Low,Suburban,20,491,Home Appliances,8,Offline,FALSE,Digital Wallet,FALSE,Afternoon,Regular,4,4,TRUE,TRUE,High,High,Offline Only,Online
+47,Male,Low,Suburban,11,485,Fashion,10,Online,TRUE,Digital Wallet,TRUE,Afternoon,Holiday Weekend,4,4,TRUE,TRUE,High,Low,Offline Only,Offline
+52,Female,Medium,Suburban,16,548,Groceries,9,Online,TRUE,UPI,FALSE,Afternoon,Summer Sale,10,2,FALSE,FALSE,Medium,Low,Online Only,Online
+50,Male,Low,Suburban,18,395,Electronics,6,Offline,FALSE,Cash,TRUE,Afternoon,New Year Sale,6,5,TRUE,FALSE,High,Low,Offline Only,Offline
+51,Male,Low,Suburban,19,996,Fashion,3,Offline,FALSE,Credit Card,TRUE,Afternoon,Holiday Weekend,5,2,TRUE,FALSE,Medium,Low,Online Only,Online
+36,Female,Medium,Urban,18,450,Home Appliances,2,Online,TRUE,Digital Wallet,FALSE,Afternoon,Cyber Monday,10,8,FALSE,TRUE,Medium,Low,Offline Only,Offline
+50,Female,Medium,Urban,15,722,Groceries,9,Online,TRUE,Credit Card,FALSE,Afternoon,New Year Sale,5,5,TRUE,FALSE,High,Low,Online Only,Online
+46,Male,Medium,Rural,19,973,Home Appliances,1,Offline,TRUE,Cash,FALSE,Evening,New Year Sale,3,7,TRUE,FALSE,Low,Medium,Offline Only,Online
+22,Female,Low,Urban,18,271,Beauty Products,6,Online,FALSE,Credit Card,TRUE,Evening,Cyber Monday,4,7,TRUE,TRUE,High,Low,Offline Only,Online
+47,Female,Low,Rural,11,178,Beauty Products,2,Online,FALSE,Digital Wallet,FALSE,Afternoon,New Year Sale,7,2,TRUE,TRUE,High,Low,Online Only,Online
+50,Male,Low,Suburban,8,280,Beauty Products,10,Offline,TRUE,Debit Card,FALSE,Evening,Holiday Weekend,5,3,FALSE,FALSE,High,Low,Offline Only,Offline
+35,Male,Medium,Rural,5,871,Electronics,4,Online,TRUE,Digital Wallet,TRUE,Evening,Cyber Monday,2,4,FALSE,TRUE,Low,Low,Offline Only,Offline
+48,Male,Low,Urban,8,644,Fashion,10,Offline,FALSE,Credit Card,FALSE,Morning,New Year Sale,12,3,FALSE,TRUE,Low,Low,Offline Only,Online
+34,Female,High,Rural,12,935,Fashion,5,Online,TRUE,Debit Card,FALSE,Evening,Regular,13,1,TRUE,FALSE,High,Low,Online Only,Offline
+34,Female,Low,Rural,5,694,Beauty Products,4,Offline,FALSE,Cash,TRUE,Evening,Regular,1,4,TRUE,TRUE,High,Low,Offline Only,Online
+52,Female,Low,Suburban,14,409,Furniture,6,Offline,TRUE,UPI,TRUE,Afternoon,Regular,14,7,TRUE,FALSE,Medium,Low,Offline Only,Online
+40,Male,Low,Rural,6,450,Electronics,6,Online,TRUE,Debit Card,FALSE,Evening,Holiday Weekend,10,6,TRUE,FALSE,Medium,High,Online Only,Offline
+25,Male,High,Rural,14,127,Furniture,8,Offline,FALSE,Debit Card,TRUE,Evening,Summer Sale,8,3,TRUE,FALSE,Low,Low,Offline Only,Offline
+32,Female,Low,Rural,10,499,Electronics,6,Offline,FALSE,UPI,FALSE,Morning,New Year Sale,4,2,TRUE,FALSE,High,Low,Online Only,Online
+22,Female,Medium,Rural,18,687,Electronics,6,Offline,TRUE,UPI,TRUE,Afternoon,New Year Sale,14,6,TRUE,FALSE,High,High,Online Only,Offline
+48,Female,Medium,Urban,5,742,Fashion,1,Offline,FALSE,Credit Card,TRUE,Evening,New Year Sale,13,7,TRUE,FALSE,High,Medium,Offline Only,Offline
+41,Male,High,Suburban,15,124,Furniture,6,Online,FALSE,Debit Card,FALSE,Afternoon,New Year Sale,2,3,FALSE,TRUE,Medium,Medium,Offline Only,Online
+35,Male,High,Rural,3,762,Electronics,9,Offline,FALSE,Debit Card,FALSE,Evening,Cyber Monday,5,7,TRUE,TRUE,High,Medium,Offline Only,Online
+45,Female,Medium,Rural,8,765,Fashion,5,Offline,TRUE,Debit Card,FALSE,Morning,Summer Sale,6,8,FALSE,FALSE,Low,Low,Online Only,Offline
+24,Female,Medium,Suburban,7,605,Electronics,7,Online,TRUE,UPI,FALSE,Evening,Holiday Weekend,10,5,FALSE,FALSE,Medium,High,Online Only,Offline
+19,Male,Medium,Rural,6,804,Beauty Products,8,Offline,TRUE,Credit Card,FALSE,Morning,Regular,1,7,FALSE,TRUE,High,Low,Online Only,Online
+26,Female,High,Urban,11,595,Home Appliances,2,Online,FALSE,Cash,TRUE,Morning,Black Friday,8,3,TRUE,TRUE,Medium,Low,Offline Only,Online
+28,Male,High,Suburban,19,269,Beauty Products,6,Online,TRUE,Digital Wallet,TRUE,Afternoon,Cyber Monday,6,3,TRUE,TRUE,Low,Low,Offline Only,Offline
+27,Female,Medium,Suburban,9,162,Beauty Products,3,Online,FALSE,Debit Card,TRUE,Afternoon,Summer Sale,14,2,FALSE,TRUE,Low,High,Offline Only,Offline
+26,Male,Medium,Rural,4,389,Beauty Products,8,Online,FALSE,UPI,TRUE,Evening,Cyber Monday,11,3,TRUE,TRUE,Low,Medium,Offline Only,Online
+50,Female,Low,Urban,8,972,Electronics,1,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Summer Sale,4,5,FALSE,FALSE,Medium,Low,Offline Only,Offline
+26,Female,High,Urban,9,337,Groceries,2,Offline,TRUE,Credit Card,TRUE,Afternoon,New Year Sale,8,4,FALSE,TRUE,Medium,Low,Online Only,Online
+49,Female,Medium,Urban,8,175,Beauty Products,7,Offline,TRUE,Credit Card,TRUE,Morning,Cyber Monday,14,5,FALSE,TRUE,High,Medium,Online Only,Offline
+19,Male,Low,Suburban,19,858,Groceries,2,Offline,TRUE,Digital Wallet,TRUE,Afternoon,Black Friday,5,1,TRUE,FALSE,Medium,Low,Online Only,Online
+48,Male,Medium,Suburban,20,168,Home Appliances,5,Online,FALSE,Cash,FALSE,Afternoon,Holiday Weekend,1,5,FALSE,TRUE,Low,Medium,Offline Only,Online
+33,Female,Medium,Urban,17,142,Furniture,1,Offline,TRUE,Debit Card,FALSE,Afternoon,Holiday Weekend,13,6,FALSE,TRUE,Medium,Low,Offline Only,Online
+21,Male,Low,Suburban,10,979,Electronics,10,Online,FALSE,Digital Wallet,FALSE,Afternoon,Cyber Monday,8,2,TRUE,FALSE,Low,Low,Offline Only,Online
+44,Male,High,Urban,3,287,Fashion,1,Online,TRUE,Credit Card,TRUE,Afternoon,Regular,12,7,FALSE,TRUE,Medium,Low,Online Only,Offline
+27,Male,Medium,Rural,8,563,Home Appliances,7,Offline,TRUE,Digital Wallet,TRUE,Morning,Regular,7,7,FALSE,TRUE,High,Medium,Offline Only,Offline
+39,Male,Low,Urban,15,810,Groceries,9,Online,FALSE,Digital Wallet,FALSE,Evening,Black Friday,5,1,FALSE,FALSE,Low,Medium,Online Only,Offline
+45,Male,High,Rural,12,228,Beauty Products,6,Offline,TRUE,UPI,FALSE,Afternoon,Summer Sale,10,4,FALSE,FALSE,Medium,Low,Offline Only,Online
+26,Female,High,Suburban,10,455,Beauty Products,9,Online,FALSE,Credit Card,FALSE,Evening,New Year Sale,15,2,TRUE,FALSE,Low,Medium,Online Only,Offline
+37,Male,High,Suburban,20,720,Groceries,5,Offline,TRUE,Credit Card,TRUE,Evening,Holiday Weekend,11,4,TRUE,FALSE,Low,Medium,Online Only,Online
+41,Female,Low,Urban,9,346,Furniture,1,Online,TRUE,Cash,FALSE,Morning,Cyber Monday,12,7,FALSE,FALSE,High,Medium,Offline Only,Offline
+41,Male,Low,Suburban,10,654,Beauty Products,7,Offline,FALSE,Debit Card,FALSE,Morning,Black Friday,2,5,FALSE,TRUE,Low,Low,Offline Only,Offline
+22,Male,Low,Suburban,7,610,Beauty Products,9,Offline,TRUE,UPI,FALSE,Morning,Holiday Weekend,1,2,TRUE,TRUE,Medium,High,Offline Only,Offline
+27,Female,Low,Rural,20,765,Home Appliances,1,Offline,FALSE,UPI,TRUE,Afternoon,Summer Sale,1,6,FALSE,FALSE,Medium,High,Online Only,Online
+26,Female,Low,Urban,6,587,Beauty Products,2,Online,FALSE,UPI,TRUE,Evening,Black Friday,14,2,TRUE,TRUE,Medium,Medium,Offline Only,Offline
+50,Male,High,Urban,20,816,Beauty Products,2,Online,FALSE,UPI,FALSE,Afternoon,Regular,3,7,FALSE,FALSE,High,Low,Offline Only,Online
+32,Female,Low,Urban,9,611,Beauty Products,6,Online,FALSE,UPI,TRUE,Morning,New Year Sale,11,1,FALSE,FALSE,Low,Low,Online Only,Offline
+51,Male,Medium,Urban,11,517,Electronics,8,Offline,TRUE,UPI,TRUE,Evening,Black Friday,8,4,FALSE,FALSE,Medium,Medium,Online Only,Online
+37,Male,High,Suburban,20,995,Beauty Products,2,Offline,FALSE,Digital Wallet,FALSE,Afternoon,Regular,6,2,TRUE,FALSE,Low,Medium,Online Only,Online
+20,Female,High,Suburban,9,962,Groceries,9,Online,TRUE,Credit Card,TRUE,Evening,Black Friday,14,3,FALSE,FALSE,High,Medium,Online Only,Offline
+47,Female,High,Urban,11,655,Electronics,8,Online,TRUE,Debit Card,TRUE,Afternoon,Cyber Monday,15,7,FALSE,FALSE,Low,Low,Online Only,Online
+19,Male,High,Suburban,15,354,Fashion,9,Online,FALSE,UPI,TRUE,Evening,Black Friday,8,8,FALSE,FALSE,Low,Medium,Online Only,Online
+42,Female,Medium,Urban,13,667,Home Appliances,4,Offline,TRUE,Cash,FALSE,Evening,New Year Sale,14,3,FALSE,FALSE,Medium,Low,Offline Only,Online
+39,Female,Low,Urban,15,853,Beauty Products,6,Online,FALSE,Cash,FALSE,Evening,New Year Sale,1,1,FALSE,TRUE,High,Medium,Offline Only,Offline
+18,Female,High,Suburban,11,292,Groceries,4,Online,FALSE,Cash,TRUE,Afternoon,Cyber Monday,13,8,FALSE,TRUE,Medium,Medium,Online Only,Offline
+50,Female,High,Urban,10,387,Fashion,10,Online,TRUE,UPI,FALSE,Afternoon,Regular,4,7,TRUE,TRUE,Low,High,Online Only,Online
+43,Female,Low,Suburban,19,232,Electronics,2,Offline,TRUE,Cash,TRUE,Evening,Regular,15,4,FALSE,TRUE,High,Medium,Online Only,Online
+18,Male,Medium,Suburban,20,329,Fashion,8,Online,FALSE,Cash,TRUE,Evening,Regular,12,3,FALSE,TRUE,Low,High,Offline Only,Online
+31,Male,Low,Rural,7,748,Home Appliances,1,Offline,TRUE,Credit Card,TRUE,Afternoon,New Year Sale,8,2,TRUE,FALSE,High,Low,Offline Only,Offline
+48,Male,Low,Suburban,8,352,Groceries,4,Offline,FALSE,UPI,TRUE,Evening,Black Friday,3,1,TRUE,FALSE,High,Low,Offline Only,Offline
+46,Female,Low,Urban,19,615,Furniture,7,Online,FALSE,Debit Card,TRUE,Evening,Black Friday,1,1,TRUE,TRUE,Medium,Medium,Online Only,Offline
+37,Female,High,Urban,4,260,Groceries,7,Online,TRUE,Digital Wallet,TRUE,Afternoon,Black Friday,8,4,TRUE,TRUE,Low,Low,Online Only,Online
+29,Female,Medium,Rural,4,877,Furniture,10,Offline,FALSE,Debit Card,FALSE,Evening,Black Friday,6,2,TRUE,TRUE,Medium,Medium,Offline Only,Offline
+45,Male,Medium,Rural,4,567,Beauty Products,4,Offline,TRUE,Digital Wallet,FALSE,Evening,Summer Sale,8,4,FALSE,TRUE,Low,Low,Online Only,Offline
+24,Male,Medium,Suburban,9,711,Beauty Products,1,Online,FALSE,Cash,FALSE,Morning,Summer Sale,3,5,FALSE,TRUE,Medium,High,Offline Only,Offline
+19,Female,Low,Suburban,3,347,Fashion,6,Online,TRUE,Debit Card,FALSE,Morning,Regular,8,3,TRUE,FALSE,High,High,Online Only,Offline
+20,Male,High,Suburban,15,498,Groceries,10,Offline,TRUE,Debit Card,FALSE,Morning,Holiday Weekend,10,5,TRUE,FALSE,Low,High,Online Only,Offline
+26,Female,Medium,Urban,16,470,Electronics,5,Offline,TRUE,UPI,TRUE,Evening,Summer Sale,4,2,TRUE,TRUE,High,Low,Offline Only,Online
+52,Male,Medium,Urban,18,1000,Electronics,5,Online,FALSE,UPI,TRUE,Afternoon,New Year Sale,4,6,FALSE,TRUE,High,Medium,Offline Only,Online
+41,Male,High,Suburban,12,160,Groceries,1,Offline,FALSE,Digital Wallet,FALSE,Afternoon,New Year Sale,14,4,TRUE,TRUE,Medium,Low,Online Only,Online
+43,Male,High,Urban,14,951,Beauty Products,10,Offline,FALSE,Credit Card,TRUE,Afternoon,Black Friday,9,4,TRUE,TRUE,Medium,Medium,Online Only,Offline
+36,Male,Medium,Urban,3,554,Groceries,7,Online,FALSE,UPI,TRUE,Evening,Cyber Monday,13,8,TRUE,FALSE,Low,Medium,Offline Only,Offline
+48,Female,Medium,Suburban,17,684,Electronics,4,Offline,TRUE,UPI,TRUE,Evening,Cyber Monday,3,3,FALSE,TRUE,Medium,High,Offline Only,Offline
+46,Male,High,Urban,4,983,Groceries,4,Online,FALSE,Cash,FALSE,Morning,Holiday Weekend,15,8,FALSE,FALSE,Medium,Low,Online Only,Offline
+31,Male,Medium,Rural,8,847,Beauty Products,8,Offline,FALSE,Digital Wallet,FALSE,Morning,Holiday Weekend,13,6,TRUE,FALSE,High,Medium,Online Only,Online
+26,Female,Medium,Rural,19,706,Home Appliances,7,Offline,TRUE,Credit Card,FALSE,Afternoon,Summer Sale,4,8,FALSE,TRUE,Low,Medium,Online Only,Online
+31,Female,Medium,Urban,18,611,Beauty Products,4,Offline,FALSE,Credit Card,TRUE,Morning,Black Friday,7,5,FALSE,FALSE,Medium,Low,Offline Only,Online
+29,Female,Medium,Suburban,16,239,Beauty Products,2,Online,FALSE,Cash,FALSE,Morning,Regular,3,7,FALSE,FALSE,Low,Low,Offline Only,Online
+52,Male,Medium,Rural,20,277,Groceries,9,Offline,TRUE,Digital Wallet,FALSE,Evening,New Year Sale,3,6,FALSE,TRUE,High,Medium,Offline Only,Online
+22,Male,High,Rural,6,224,Furniture,3,Online,TRUE,UPI,FALSE,Afternoon,Summer Sale,9,1,TRUE,FALSE,High,Medium,Offline Only,Offline
+24,Male,Low,Urban,10,870,Home Appliances,8,Online,FALSE,Debit Card,TRUE,Morning,New Year Sale,15,2,TRUE,FALSE,High,Low,Online Only,Offline
+52,Female,Medium,Suburban,8,242,Beauty Products,1,Online,TRUE,Debit Card,TRUE,Morning,Holiday Weekend,3,2,FALSE,FALSE,Low,Low,Online Only,Offline
+33,Female,Low,Urban,5,381,Electronics,5,Online,TRUE,Credit Card,TRUE,Afternoon,Holiday Weekend,4,4,TRUE,FALSE,Medium,High,Online Only,Online
+25,Male,Low,Urban,4,860,Beauty Products,5,Online,FALSE,Credit Card,FALSE,Morning,Regular,4,1,TRUE,FALSE,High,High,Offline Only,Offline
+44,Male,Low,Urban,4,601,Electronics,6,Online,FALSE,Digital Wallet,FALSE,Evening,Holiday Weekend,10,6,TRUE,TRUE,Low,Low,Online Only,Online
+41,Male,High,Urban,14,683,Fashion,2,Offline,FALSE,Credit Card,TRUE,Evening,Holiday Weekend,4,1,FALSE,TRUE,High,Low,Online Only,Offline
+36,Male,Medium,Urban,20,122,Electronics,9,Online,TRUE,Digital Wallet,FALSE,Evening,Regular,15,5,FALSE,TRUE,High,High,Offline Only,Online
+39,Female,Low,Urban,11,231,Furniture,9,Offline,FALSE,Credit Card,TRUE,Morning,Black Friday,1,2,TRUE,TRUE,Low,High,Offline Only,Offline
+21,Male,Medium,Suburban,4,518,Fashion,2,Offline,TRUE,Credit Card,TRUE,Morning,Regular,7,7,FALSE,TRUE,Low,Low,Online Only,Offline
+38,Male,High,Rural,19,669,Furniture,6,Offline,TRUE,Credit Card,FALSE,Morning,Holiday Weekend,5,4,FALSE,FALSE,Medium,Medium,Online Only,Online
+41,Male,High,Suburban,16,704,Electronics,4,Online,TRUE,Debit Card,TRUE,Evening,Black Friday,4,7,TRUE,TRUE,Medium,High,Offline Only,Online
+51,Male,Medium,Urban,6,1000,Furniture,2,Offline,TRUE,Credit Card,TRUE,Morning,Summer Sale,3,2,FALSE,TRUE,Medium,High,Online Only,Offline
+46,Female,High,Urban,8,651,Fashion,5,Offline,TRUE,Credit Card,FALSE,Afternoon,Holiday Weekend,1,3,TRUE,TRUE,Low,High,Online Only,Offline
+46,Female,Medium,Urban,10,960,Electronics,7,Offline,TRUE,Cash,TRUE,Morning,Regular,2,7,TRUE,TRUE,Medium,Medium,Online Only,Online
+35,Male,High,Rural,17,311,Electronics,3,Offline,FALSE,Digital Wallet,TRUE,Evening,Summer Sale,15,5,TRUE,TRUE,Low,Medium,Offline Only,Online
+35,Male,Low,Rural,7,779,Furniture,3,Offline,TRUE,Credit Card,FALSE,Morning,Summer Sale,10,8,TRUE,FALSE,Medium,High,Online Only,Offline
+29,Male,Medium,Suburban,11,845,Home Appliances,3,Offline,TRUE,UPI,TRUE,Afternoon,Cyber Monday,4,2,TRUE,TRUE,Low,Medium,Online Only,Online
+39,Female,High,Rural,7,877,Fashion,9,Offline,TRUE,UPI,FALSE,Afternoon,Regular,13,8,TRUE,TRUE,Medium,High,Offline Only,Online
+32,Female,Medium,Suburban,10,656,Fashion,10,Online,FALSE,Debit Card,TRUE,Evening,New Year Sale,2,1,FALSE,TRUE,High,Medium,Online Only,Online
+34,Male,Medium,Suburban,15,808,Groceries,7,Offline,TRUE,Cash,FALSE,Morning,Regular,14,4,FALSE,TRUE,Medium,Medium,Offline Only,Offline
+22,Male,High,Rural,4,447,Groceries,2,Online,TRUE,Cash,TRUE,Morning,Summer Sale,10,3,TRUE,TRUE,High,Low,Offline Only,Offline
+29,Male,Low,Urban,3,634,Electronics,3,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Black Friday,7,8,TRUE,TRUE,High,High,Offline Only,Offline
+39,Male,Medium,Suburban,18,527,Groceries,7,Online,FALSE,Debit Card,FALSE,Afternoon,Regular,1,4,TRUE,TRUE,High,Medium,Online Only,Offline
+31,Male,Low,Rural,18,258,Furniture,7,Offline,TRUE,Digital Wallet,TRUE,Afternoon,Cyber Monday,1,7,FALSE,FALSE,Low,Low,Offline Only,Online
+50,Male,Low,Urban,7,230,Home Appliances,5,Online,FALSE,Cash,TRUE,Evening,Black Friday,8,8,FALSE,FALSE,Low,High,Offline Only,Online
+39,Male,High,Suburban,13,758,Beauty Products,3,Online,FALSE,Credit Card,FALSE,Evening,New Year Sale,3,6,FALSE,FALSE,High,High,Online Only,Online
+23,Female,Low,Suburban,20,843,Beauty Products,10,Online,FALSE,Debit Card,FALSE,Evening,Summer Sale,12,8,TRUE,FALSE,High,Low,Online Only,Online
+18,Male,High,Urban,10,643,Fashion,1,Offline,TRUE,UPI,FALSE,Afternoon,Cyber Monday,4,6,TRUE,FALSE,Low,Low,Online Only,Offline
+34,Male,Medium,Urban,10,109,Fashion,3,Online,FALSE,Credit Card,TRUE,Morning,Summer Sale,13,5,TRUE,FALSE,High,Medium,Offline Only,Offline
+31,Male,High,Suburban,8,674,Groceries,5,Online,TRUE,Digital Wallet,FALSE,Evening,Black Friday,4,3,TRUE,FALSE,High,High,Offline Only,Offline
+20,Male,Medium,Rural,8,165,Groceries,6,Offline,FALSE,Credit Card,FALSE,Morning,Black Friday,3,6,FALSE,TRUE,High,Medium,Online Only,Offline
+19,Female,Low,Rural,12,269,Groceries,10,Offline,FALSE,Debit Card,TRUE,Morning,Holiday Weekend,4,3,TRUE,FALSE,Medium,Medium,Offline Only,Offline
+51,Female,Medium,Urban,8,989,Home Appliances,4,Offline,TRUE,Digital Wallet,TRUE,Evening,Cyber Monday,15,4,TRUE,FALSE,High,Medium,Offline Only,Online
+40,Female,High,Urban,8,809,Beauty Products,6,Offline,FALSE,Credit Card,TRUE,Morning,Cyber Monday,11,1,TRUE,TRUE,High,Low,Online Only,Offline
+42,Female,Medium,Rural,20,293,Fashion,5,Offline,TRUE,Debit Card,TRUE,Morning,Cyber Monday,14,1,TRUE,TRUE,High,Low,Offline Only,Offline
+52,Female,High,Urban,12,339,Fashion,1,Offline,TRUE,Credit Card,TRUE,Afternoon,Holiday Weekend,7,8,FALSE,TRUE,High,Medium,Online Only,Offline
+22,Female,Low,Suburban,16,571,Home Appliances,1,Online,TRUE,Debit Card,FALSE,Afternoon,Holiday Weekend,14,7,FALSE,FALSE,Medium,Medium,Online Only,Offline
+46,Female,High,Rural,7,789,Home Appliances,1,Offline,TRUE,Cash,TRUE,Afternoon,Regular,4,8,TRUE,TRUE,Medium,High,Offline Only,Offline
+48,Male,Medium,Rural,7,920,Groceries,5,Online,TRUE,Cash,FALSE,Afternoon,Summer Sale,10,2,FALSE,TRUE,High,Low,Offline Only,Offline
+20,Female,Low,Suburban,20,398,Home Appliances,2,Online,TRUE,Digital Wallet,FALSE,Afternoon,Regular,1,4,TRUE,TRUE,High,High,Online Only,Online
+30,Female,Low,Urban,9,231,Home Appliances,3,Offline,FALSE,Debit Card,FALSE,Afternoon,Holiday Weekend,1,5,TRUE,FALSE,High,Low,Online Only,Online
+18,Female,High,Urban,17,682,Groceries,7,Online,FALSE,UPI,FALSE,Morning,Holiday Weekend,4,8,FALSE,TRUE,Low,Medium,Online Only,Offline
+48,Female,Medium,Suburban,14,953,Electronics,9,Online,FALSE,UPI,TRUE,Morning,Black Friday,13,5,TRUE,TRUE,Low,Medium,Offline Only,Offline
+48,Female,Low,Urban,9,610,Furniture,3,Online,TRUE,UPI,TRUE,Evening,Regular,3,3,FALSE,TRUE,High,Medium,Offline Only,Offline
+21,Male,Medium,Rural,15,822,Fashion,6,Offline,TRUE,Credit Card,FALSE,Morning,Cyber Monday,14,7,TRUE,TRUE,Low,Medium,Offline Only,Offline
+30,Female,High,Rural,11,146,Groceries,3,Online,FALSE,Debit Card,TRUE,Afternoon,Cyber Monday,10,1,FALSE,TRUE,Low,Low,Online Only,Offline
+45,Female,Medium,Suburban,6,426,Home Appliances,7,Online,TRUE,Digital Wallet,FALSE,Afternoon,Summer Sale,4,2,TRUE,TRUE,Medium,High,Offline Only,Offline
+49,Male,Medium,Rural,14,215,Beauty Products,9,Offline,FALSE,Digital Wallet,FALSE,Afternoon,Holiday Weekend,12,1,TRUE,TRUE,Medium,High,Online Only,Online
+32,Female,Low,Suburban,4,495,Beauty Products,2,Online,FALSE,Credit Card,TRUE,Afternoon,Regular,10,8,FALSE,FALSE,Low,Medium,Online Only,Online
+51,Female,Medium,Suburban,5,960,Furniture,8,Online,FALSE,Credit Card,FALSE,Evening,New Year Sale,5,8,FALSE,TRUE,High,Medium,Online Only,Offline
+29,Female,Medium,Rural,4,849,Home Appliances,3,Online,TRUE,Credit Card,TRUE,Evening,Regular,14,3,TRUE,TRUE,High,Low,Online Only,Offline
+47,Female,Medium,Urban,20,274,Furniture,1,Offline,TRUE,Digital Wallet,TRUE,Afternoon,Summer Sale,4,2,TRUE,TRUE,Medium,Low,Offline Only,Online
+34,Male,Low,Suburban,8,156,Home Appliances,10,Offline,TRUE,UPI,TRUE,Afternoon,Summer Sale,15,6,TRUE,TRUE,High,Medium,Offline Only,Offline
+29,Male,High,Rural,6,685,Home Appliances,1,Offline,FALSE,Credit Card,FALSE,Evening,Holiday Weekend,2,6,TRUE,TRUE,Medium,Low,Online Only,Offline
+50,Male,Low,Urban,10,803,Beauty Products,7,Offline,FALSE,Debit Card,TRUE,Evening,Summer Sale,6,4,TRUE,TRUE,Medium,Medium,Offline Only,Offline
+19,Female,Medium,Urban,5,292,Furniture,6,Offline,TRUE,Cash,FALSE,Evening,Holiday Weekend,11,2,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+32,Female,Medium,Rural,15,209,Fashion,2,Online,TRUE,UPI,FALSE,Evening,Summer Sale,14,7,TRUE,TRUE,Medium,High,Offline Only,Online
+44,Female,Low,Suburban,11,925,Electronics,5,Online,TRUE,Credit Card,TRUE,Evening,Summer Sale,8,4,TRUE,FALSE,High,High,Online Only,Offline
+35,Female,Low,Urban,3,493,Electronics,10,Offline,TRUE,Debit Card,TRUE,Afternoon,Regular,10,4,FALSE,FALSE,Low,Low,Offline Only,Offline
+18,Female,Low,Suburban,15,307,Fashion,2,Online,TRUE,Digital Wallet,TRUE,Evening,Regular,10,2,FALSE,TRUE,Low,High,Online Only,Online
+29,Female,Medium,Rural,18,203,Fashion,1,Offline,TRUE,Cash,TRUE,Afternoon,Summer Sale,15,4,FALSE,FALSE,Medium,Medium,Online Only,Online
+22,Male,Low,Urban,11,487,Home Appliances,3,Online,FALSE,Digital Wallet,TRUE,Afternoon,New Year Sale,10,8,FALSE,FALSE,Low,Low,Offline Only,Online
+23,Female,Low,Rural,4,178,Beauty Products,6,Offline,FALSE,Digital Wallet,TRUE,Morning,Cyber Monday,4,6,FALSE,FALSE,High,Low,Online Only,Online
+45,Male,Medium,Rural,8,347,Groceries,9,Online,FALSE,Credit Card,TRUE,Afternoon,Summer Sale,6,6,FALSE,TRUE,Low,Medium,Offline Only,Offline
+31,Female,High,Suburban,7,832,Beauty Products,3,Online,FALSE,Digital Wallet,TRUE,Morning,Summer Sale,14,8,TRUE,FALSE,Low,High,Online Only,Offline
+46,Male,Medium,Rural,11,223,Electronics,10,Online,FALSE,Debit Card,TRUE,Evening,New Year Sale,8,7,TRUE,FALSE,Low,Low,Online Only,Online
+18,Female,Low,Rural,16,287,Electronics,3,Offline,FALSE,Debit Card,TRUE,Afternoon,Summer Sale,2,7,FALSE,FALSE,High,Medium,Online Only,Offline
+47,Male,Low,Rural,20,395,Furniture,6,Offline,FALSE,Digital Wallet,FALSE,Afternoon,Holiday Weekend,10,5,FALSE,TRUE,Low,Medium,Offline Only,Offline
+41,Female,Medium,Rural,5,540,Groceries,4,Online,FALSE,Credit Card,TRUE,Evening,Cyber Monday,7,5,FALSE,TRUE,High,High,Online Only,Offline
+43,Female,Low,Rural,15,832,Groceries,9,Offline,FALSE,UPI,FALSE,Evening,Holiday Weekend,13,4,FALSE,FALSE,High,Low,Offline Only,Online
+47,Male,Low,Rural,15,254,Electronics,9,Offline,FALSE,Debit Card,FALSE,Afternoon,Black Friday,11,8,FALSE,TRUE,High,High,Online Only,Online
+24,Female,Low,Suburban,10,371,Groceries,7,Online,FALSE,Credit Card,FALSE,Evening,Black Friday,12,7,FALSE,TRUE,Medium,High,Offline Only,Offline
+40,Female,Medium,Urban,19,986,Fashion,4,Offline,TRUE,Debit Card,FALSE,Evening,Summer Sale,13,1,TRUE,FALSE,High,Low,Offline Only,Online
+47,Male,Medium,Suburban,10,883,Beauty Products,2,Online,FALSE,Debit Card,TRUE,Afternoon,Holiday Weekend,10,6,TRUE,FALSE,High,Medium,Online Only,Online
+18,Female,High,Urban,4,840,Groceries,10,Online,TRUE,Credit Card,FALSE,Morning,Summer Sale,14,2,FALSE,TRUE,Medium,High,Online Only,Online
+33,Female,Medium,Rural,10,576,Furniture,3,Online,FALSE,Cash,FALSE,Afternoon,Holiday Weekend,2,7,TRUE,FALSE,Low,High,Offline Only,Offline
+36,Male,Medium,Urban,6,882,Home Appliances,5,Offline,FALSE,Credit Card,TRUE,Morning,Holiday Weekend,3,6,TRUE,TRUE,Low,High,Offline Only,Online
+27,Female,Low,Rural,18,185,Beauty Products,5,Offline,TRUE,Cash,TRUE,Morning,Black Friday,2,6,FALSE,TRUE,High,Low,Online Only,Offline
+30,Female,Medium,Rural,10,542,Fashion,7,Online,FALSE,UPI,TRUE,Morning,Regular,13,8,TRUE,FALSE,Medium,Medium,Online Only,Online
+20,Female,Medium,Suburban,15,494,Home Appliances,10,Online,TRUE,Digital Wallet,FALSE,Evening,Cyber Monday,10,1,TRUE,FALSE,Medium,Medium,Offline Only,Offline
+23,Female,High,Urban,9,931,Beauty Products,1,Offline,TRUE,Digital Wallet,FALSE,Morning,Summer Sale,4,5,FALSE,FALSE,High,Medium,Offline Only,Offline
+18,Female,Medium,Rural,13,198,Furniture,5,Offline,FALSE,Digital Wallet,TRUE,Morning,New Year Sale,8,1,FALSE,FALSE,Medium,High,Online Only,Online
+23,Male,High,Suburban,8,614,Groceries,9,Online,FALSE,Cash,FALSE,Morning,Black Friday,10,6,TRUE,FALSE,Low,Medium,Online Only,Offline
+25,Male,High,Rural,10,224,Furniture,4,Online,FALSE,Credit Card,FALSE,Morning,Summer Sale,4,7,TRUE,TRUE,Low,Medium,Offline Only,Online
+29,Male,Medium,Suburban,8,514,Electronics,5,Online,FALSE,Credit Card,TRUE,Morning,Holiday Weekend,13,6,FALSE,TRUE,Medium,Medium,Online Only,Offline
+45,Female,Medium,Suburban,12,425,Electronics,4,Online,TRUE,Cash,TRUE,Morning,Holiday Weekend,8,4,FALSE,TRUE,High,Low,Online Only,Online
+31,Male,High,Rural,17,311,Home Appliances,7,Offline,TRUE,Debit Card,FALSE,Evening,Summer Sale,7,2,TRUE,TRUE,Low,Medium,Offline Only,Offline
+24,Female,High,Rural,11,508,Groceries,6,Online,TRUE,Debit Card,TRUE,Morning,Holiday Weekend,9,1,FALSE,FALSE,Medium,Low,Offline Only,Online
+24,Female,High,Urban,20,485,Beauty Products,3,Offline,TRUE,Digital Wallet,FALSE,Evening,Summer Sale,1,2,TRUE,TRUE,Low,Medium,Online Only,Online
+51,Male,Medium,Urban,14,924,Electronics,7,Offline,FALSE,Digital Wallet,FALSE,Morning,Summer Sale,7,5,FALSE,TRUE,Medium,Low,Offline Only,Online
+23,Female,High,Rural,8,318,Home Appliances,9,Offline,TRUE,Digital Wallet,TRUE,Evening,New Year Sale,15,5,FALSE,TRUE,Medium,High,Offline Only,Online
+45,Male,High,Rural,7,909,Beauty Products,7,Offline,FALSE,UPI,FALSE,Evening,Holiday Weekend,12,6,TRUE,FALSE,Low,High,Online Only,Offline
+26,Female,High,Suburban,3,161,Home Appliances,5,Online,FALSE,Credit Card,FALSE,Afternoon,New Year Sale,1,8,FALSE,FALSE,Low,High,Offline Only,Offline
+52,Male,Medium,Rural,14,935,Beauty Products,9,Offline,FALSE,Credit Card,FALSE,Morning,Regular,9,5,FALSE,FALSE,Medium,Low,Online Only,Online
+28,Female,Low,Suburban,6,191,Fashion,4,Online,FALSE,UPI,FALSE,Morning,New Year Sale,10,6,TRUE,FALSE,Low,Low,Offline Only,Offline
+27,Female,Medium,Rural,6,309,Furniture,5,Offline,FALSE,Cash,TRUE,Afternoon,Summer Sale,14,3,TRUE,FALSE,High,Low,Offline Only,Offline
+23,Female,High,Rural,7,564,Groceries,6,Online,TRUE,UPI,FALSE,Evening,Summer Sale,6,3,TRUE,TRUE,High,Low,Online Only,Online
+18,Male,High,Suburban,18,652,Fashion,9,Offline,FALSE,Credit Card,TRUE,Evening,Summer Sale,7,8,TRUE,FALSE,High,Medium,Offline Only,Online
+20,Male,Low,Rural,13,777,Fashion,4,Online,FALSE,Debit Card,TRUE,Afternoon,Cyber Monday,6,6,TRUE,TRUE,High,Low,Offline Only,Online
+50,Female,Low,Urban,13,400,Home Appliances,8,Offline,FALSE,UPI,FALSE,Evening,Cyber Monday,6,7,FALSE,TRUE,Medium,High,Online Only,Online
+26,Female,Medium,Urban,20,460,Fashion,7,Offline,TRUE,Digital Wallet,TRUE,Evening,New Year Sale,9,5,TRUE,FALSE,High,Low,Online Only,Online
+20,Female,High,Urban,15,832,Furniture,8,Online,FALSE,Cash,TRUE,Morning,Holiday Weekend,2,1,FALSE,FALSE,Medium,Low,Online Only,Offline
+30,Male,Medium,Urban,17,967,Electronics,9,Offline,FALSE,Debit Card,TRUE,Afternoon,Black Friday,10,8,FALSE,FALSE,Low,High,Offline Only,Offline
+52,Male,High,Rural,15,170,Fashion,3,Online,TRUE,Debit Card,TRUE,Evening,Cyber Monday,2,3,TRUE,FALSE,Medium,Low,Offline Only,Offline
+26,Female,High,Suburban,4,275,Electronics,1,Online,TRUE,UPI,FALSE,Evening,Regular,5,8,TRUE,FALSE,High,Low,Online Only,Offline
+25,Male,Low,Urban,7,118,Groceries,4,Offline,TRUE,Credit Card,FALSE,Evening,Black Friday,2,4,FALSE,TRUE,Low,High,Online Only,Online
+28,Female,Medium,Suburban,16,717,Electronics,2,Offline,FALSE,UPI,TRUE,Morning,Cyber Monday,4,1,FALSE,TRUE,Low,Medium,Online Only,Online
+25,Male,Medium,Rural,6,218,Beauty Products,5,Online,FALSE,UPI,FALSE,Evening,Regular,13,4,TRUE,FALSE,High,High,Offline Only,Offline
+46,Male,Medium,Rural,11,286,Groceries,9,Online,TRUE,UPI,FALSE,Afternoon,Black Friday,10,5,TRUE,FALSE,Low,High,Offline Only,Online
+30,Female,Medium,Suburban,10,108,Fashion,8,Offline,TRUE,UPI,FALSE,Evening,New Year Sale,5,8,FALSE,FALSE,High,High,Online Only,Offline
+23,Male,Low,Urban,3,500,Groceries,8,Offline,TRUE,Cash,TRUE,Morning,New Year Sale,8,5,FALSE,TRUE,High,Low,Offline Only,Offline
+43,Female,High,Suburban,13,531,Home Appliances,4,Offline,FALSE,Digital Wallet,TRUE,Afternoon,Black Friday,2,3,FALSE,TRUE,High,Medium,Online Only,Offline
+46,Female,High,Urban,16,624,Furniture,7,Offline,TRUE,Credit Card,TRUE,Morning,Black Friday,9,4,TRUE,TRUE,Low,Medium,Online Only,Online
+43,Male,High,Suburban,8,587,Home Appliances,7,Online,FALSE,Digital Wallet,FALSE,Evening,Holiday Weekend,4,2,FALSE,TRUE,Medium,Low,Online Only,Offline
+40,Female,Medium,Suburban,12,753,Electronics,2,Offline,TRUE,Digital Wallet,TRUE,Evening,Summer Sale,12,2,TRUE,TRUE,Medium,High,Online Only,Online
+36,Male,High,Suburban,10,173,Beauty Products,10,Offline,FALSE,Debit Card,FALSE,Morning,Black Friday,15,2,FALSE,TRUE,Low,Medium,Offline Only,Online
+29,Female,Low,Suburban,20,668,Fashion,7,Offline,FALSE,Credit Card,TRUE,Evening,Regular,5,1,TRUE,TRUE,High,Medium,Offline Only,Offline
+26,Male,Low,Urban,19,178,Furniture,5,Online,TRUE,Digital Wallet,TRUE,Evening,Summer Sale,3,4,FALSE,TRUE,Medium,Low,Offline Only,Offline
+21,Male,Low,Urban,11,278,Groceries,5,Online,TRUE,Credit Card,TRUE,Evening,Cyber Monday,3,7,TRUE,FALSE,High,Medium,Offline Only,Offline
+41,Female,Medium,Rural,4,443,Groceries,8,Offline,TRUE,Debit Card,FALSE,Evening,Holiday Weekend,5,6,FALSE,TRUE,High,Low,Offline Only,Offline
+46,Female,Low,Rural,18,875,Fashion,5,Offline,FALSE,Credit Card,TRUE,Morning,Cyber Monday,5,8,FALSE,FALSE,Low,High,Offline Only,Online
+47,Female,High,Rural,5,611,Fashion,7,Online,FALSE,Debit Card,FALSE,Morning,Cyber Monday,3,8,TRUE,TRUE,High,Low,Offline Only,Online
+47,Female,High,Urban,17,154,Fashion,7,Offline,TRUE,UPI,TRUE,Afternoon,Holiday Weekend,10,8,TRUE,FALSE,Low,Low,Online Only,Online
+37,Female,Low,Suburban,13,160,Beauty Products,9,Offline,FALSE,Cash,FALSE,Evening,New Year Sale,1,3,FALSE,FALSE,High,Medium,Offline Only,Offline
+33,Male,High,Urban,5,269,Furniture,4,Online,TRUE,UPI,FALSE,Evening,Cyber Monday,7,6,FALSE,FALSE,Low,Medium,Online Only,Online
+47,Female,High,Suburban,14,159,Beauty Products,8,Offline,FALSE,UPI,FALSE,Evening,Cyber Monday,2,2,FALSE,FALSE,Medium,Medium,Online Only,Offline
+40,Male,High,Rural,12,665,Electronics,5,Offline,TRUE,UPI,TRUE,Afternoon,Cyber Monday,9,5,TRUE,FALSE,Medium,High,Offline Only,Online
+36,Male,High,Suburban,20,144,Fashion,9,Online,TRUE,UPI,FALSE,Morning,Cyber Monday,14,6,TRUE,FALSE,Low,High,Offline Only,Offline
+45,Male,Medium,Suburban,14,309,Fashion,7,Offline,TRUE,Digital Wallet,FALSE,Morning,Summer Sale,4,1,TRUE,TRUE,Medium,High,Offline Only,Offline
+42,Male,High,Urban,3,421,Home Appliances,7,Offline,FALSE,Credit Card,FALSE,Evening,Cyber Monday,5,5,TRUE,TRUE,Low,Low,Online Only,Offline
+18,Female,Medium,Rural,16,741,Home Appliances,2,Online,TRUE,Digital Wallet,TRUE,Afternoon,Black Friday,8,7,TRUE,FALSE,Medium,Medium,Online Only,Offline
+21,Male,Low,Suburban,13,665,Beauty Products,10,Offline,FALSE,Digital Wallet,FALSE,Morning,Cyber Monday,8,8,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+38,Male,High,Suburban,7,275,Groceries,5,Offline,FALSE,UPI,TRUE,Morning,Holiday Weekend,5,2,FALSE,FALSE,Medium,Medium,Online Only,Offline
+20,Female,Low,Suburban,4,154,Home Appliances,5,Offline,FALSE,Debit Card,TRUE,Morning,Holiday Weekend,12,5,TRUE,TRUE,Medium,High,Online Only,Online
+24,Male,Low,Rural,15,854,Furniture,2,Online,TRUE,UPI,TRUE,Afternoon,Summer Sale,5,2,TRUE,FALSE,Medium,High,Online Only,Online
+44,Female,High,Rural,17,714,Fashion,5,Offline,FALSE,Credit Card,FALSE,Afternoon,New Year Sale,8,7,FALSE,FALSE,High,Low,Online Only,Online
+52,Male,Medium,Urban,19,823,Home Appliances,8,Offline,TRUE,Digital Wallet,FALSE,Evening,Regular,14,2,FALSE,TRUE,Low,High,Online Only,Online
+33,Female,High,Suburban,8,676,Home Appliances,4,Offline,FALSE,Debit Card,FALSE,Evening,Black Friday,14,2,TRUE,FALSE,Low,High,Offline Only,Online
+44,Female,Medium,Rural,20,886,Beauty Products,4,Online,TRUE,Debit Card,FALSE,Morning,Black Friday,13,4,FALSE,FALSE,Low,Medium,Offline Only,Offline
+22,Male,High,Urban,10,253,Beauty Products,9,Online,TRUE,Debit Card,FALSE,Evening,Holiday Weekend,3,1,FALSE,FALSE,Low,Low,Offline Only,Online
+50,Male,Medium,Rural,16,260,Electronics,9,Offline,TRUE,Debit Card,TRUE,Afternoon,Summer Sale,11,1,FALSE,TRUE,High,Low,Online Only,Offline
+28,Male,Low,Suburban,9,347,Home Appliances,1,Online,FALSE,Credit Card,FALSE,Evening,Cyber Monday,8,8,FALSE,TRUE,Low,Low,Offline Only,Offline
+19,Female,High,Suburban,17,827,Electronics,3,Online,FALSE,UPI,TRUE,Afternoon,New Year Sale,3,1,FALSE,TRUE,High,Low,Online Only,Offline
+44,Male,High,Urban,3,564,Fashion,8,Online,FALSE,Digital Wallet,TRUE,Evening,Holiday Weekend,5,2,FALSE,FALSE,Medium,Low,Offline Only,Offline
+46,Female,High,Suburban,15,237,Fashion,1,Online,FALSE,Digital Wallet,FALSE,Morning,Holiday Weekend,2,2,TRUE,TRUE,Low,Medium,Offline Only,Offline
+40,Female,High,Urban,13,828,Electronics,4,Offline,TRUE,UPI,TRUE,Evening,New Year Sale,5,6,FALSE,FALSE,Medium,Medium,Offline Only,Online
+21,Male,High,Rural,18,615,Home Appliances,7,Online,TRUE,Credit Card,TRUE,Evening,New Year Sale,1,7,FALSE,FALSE,Medium,Low,Online Only,Online
+19,Male,Low,Urban,15,785,Fashion,3,Online,FALSE,UPI,TRUE,Afternoon,Cyber Monday,13,7,TRUE,FALSE,Medium,High,Offline Only,Online
+51,Female,Medium,Suburban,8,395,Electronics,2,Offline,FALSE,Digital Wallet,TRUE,Morning,Black Friday,5,5,FALSE,TRUE,High,Low,Online Only,Online
+37,Female,High,Urban,5,713,Furniture,2,Online,FALSE,Cash,TRUE,Afternoon,Holiday Weekend,12,5,TRUE,FALSE,Low,High,Offline Only,Offline
+40,Male,Medium,Suburban,8,272,Furniture,9,Offline,FALSE,Debit Card,FALSE,Afternoon,New Year Sale,10,4,FALSE,FALSE,Medium,High,Online Only,Offline
+33,Female,Low,Urban,15,551,Furniture,7,Offline,FALSE,Cash,TRUE,Morning,New Year Sale,2,4,FALSE,TRUE,Low,High,Online Only,Offline
+31,Female,Medium,Rural,9,231,Furniture,2,Online,FALSE,Debit Card,FALSE,Morning,New Year Sale,9,6,FALSE,FALSE,Medium,High,Offline Only,Online
+52,Female,Medium,Rural,8,755,Electronics,6,Offline,TRUE,Cash,TRUE,Morning,Cyber Monday,12,5,FALSE,TRUE,Medium,High,Offline Only,Online
+25,Male,High,Rural,6,192,Electronics,4,Offline,FALSE,Credit Card,TRUE,Afternoon,Black Friday,1,2,FALSE,TRUE,Low,Low,Offline Only,Offline
+25,Female,Medium,Urban,16,808,Groceries,5,Offline,FALSE,Cash,FALSE,Afternoon,Regular,15,5,TRUE,FALSE,Low,Medium,Offline Only,Online
+26,Female,Medium,Rural,8,463,Furniture,8,Online,TRUE,Debit Card,TRUE,Morning,New Year Sale,6,4,FALSE,FALSE,Medium,Medium,Online Only,Online
+37,Female,Medium,Rural,7,595,Fashion,9,Online,FALSE,Cash,TRUE,Evening,Regular,3,2,TRUE,TRUE,High,Low,Online Only,Offline
+40,Female,High,Rural,18,613,Groceries,8,Online,TRUE,Cash,TRUE,Evening,Summer Sale,3,8,TRUE,TRUE,High,Medium,Online Only,Online
+41,Male,Medium,Urban,11,450,Fashion,10,Offline,TRUE,UPI,TRUE,Afternoon,Summer Sale,2,3,FALSE,TRUE,Medium,Low,Online Only,Offline
+37,Male,Low,Urban,20,279,Furniture,8,Online,TRUE,Debit Card,FALSE,Morning,Cyber Monday,11,2,FALSE,TRUE,Low,Low,Online Only,Offline
+27,Male,Medium,Suburban,13,257,Home Appliances,3,Online,TRUE,Credit Card,TRUE,Morning,Black Friday,6,2,TRUE,FALSE,Low,High,Online Only,Online
+25,Female,High,Suburban,17,867,Electronics,8,Offline,FALSE,UPI,FALSE,Afternoon,Summer Sale,11,2,TRUE,FALSE,High,High,Online Only,Online
+36,Female,High,Rural,9,498,Electronics,6,Offline,FALSE,Credit Card,TRUE,Afternoon,Holiday Weekend,4,4,FALSE,FALSE,High,High,Offline Only,Online
+18,Male,Medium,Urban,5,412,Furniture,2,Online,FALSE,Debit Card,FALSE,Evening,Regular,14,3,FALSE,TRUE,Medium,Medium,Online Only,Offline
+18,Male,High,Rural,20,652,Groceries,4,Online,FALSE,Digital Wallet,FALSE,Morning,Black Friday,13,5,TRUE,FALSE,High,High,Offline Only,Offline
+25,Male,High,Urban,7,570,Home Appliances,7,Offline,FALSE,Debit Card,TRUE,Morning,Holiday Weekend,14,3,TRUE,TRUE,Medium,Low,Offline Only,Online
+47,Female,High,Urban,16,534,Electronics,8,Online,FALSE,Debit Card,TRUE,Evening,Cyber Monday,1,3,FALSE,TRUE,Medium,High,Offline Only,Offline
+22,Male,Low,Urban,16,984,Groceries,3,Offline,TRUE,Cash,TRUE,Afternoon,Regular,3,7,FALSE,TRUE,High,Low,Offline Only,Online
+38,Female,Low,Urban,6,920,Home Appliances,5,Offline,TRUE,Cash,FALSE,Afternoon,Black Friday,15,7,FALSE,FALSE,High,High,Online Only,Online
+46,Male,Medium,Suburban,14,551,Home Appliances,5,Offline,FALSE,Credit Card,FALSE,Evening,Cyber Monday,7,5,TRUE,FALSE,Medium,High,Online Only,Offline
+26,Male,High,Rural,20,463,Home Appliances,4,Offline,TRUE,Credit Card,FALSE,Afternoon,New Year Sale,10,4,FALSE,FALSE,Low,Low,Online Only,Offline
+23,Male,Medium,Urban,11,298,Beauty Products,7,Online,FALSE,Digital Wallet,FALSE,Morning,Cyber Monday,14,4,FALSE,FALSE,Medium,High,Online Only,Online
+21,Female,High,Rural,20,130,Home Appliances,6,Online,FALSE,Credit Card,TRUE,Evening,New Year Sale,12,8,FALSE,FALSE,High,High,Online Only,Online
+24,Female,Low,Suburban,13,319,Furniture,9,Offline,FALSE,UPI,FALSE,Morning,Cyber Monday,11,7,TRUE,FALSE,Low,High,Online Only,Offline
+22,Male,Low,Urban,9,459,Home Appliances,7,Online,FALSE,UPI,TRUE,Evening,Cyber Monday,8,1,FALSE,TRUE,High,Medium,Online Only,Offline
+47,Female,Low,Rural,4,980,Beauty Products,9,Offline,TRUE,Digital Wallet,FALSE,Evening,Black Friday,14,8,TRUE,TRUE,Low,High,Online Only,Offline
+36,Female,Low,Rural,9,153,Home Appliances,4,Offline,FALSE,UPI,TRUE,Afternoon,New Year Sale,5,1,TRUE,FALSE,Medium,High,Offline Only,Online
+45,Female,Medium,Rural,5,797,Furniture,9,Online,FALSE,UPI,FALSE,Evening,Holiday Weekend,1,5,FALSE,TRUE,Low,High,Online Only,Offline
+22,Female,Medium,Suburban,20,382,Beauty Products,3,Online,TRUE,Debit Card,FALSE,Afternoon,New Year Sale,3,8,TRUE,TRUE,Low,High,Online Only,Offline
+20,Female,Low,Suburban,18,533,Home Appliances,9,Online,TRUE,Credit Card,FALSE,Morning,Summer Sale,13,1,FALSE,TRUE,Medium,Low,Offline Only,Offline
+50,Male,Low,Suburban,11,937,Beauty Products,6,Offline,TRUE,Digital Wallet,FALSE,Evening,Black Friday,1,6,TRUE,FALSE,Low,High,Offline Only,Online
+21,Male,Low,Suburban,4,817,Home Appliances,8,Online,FALSE,UPI,FALSE,Evening,Holiday Weekend,12,6,FALSE,TRUE,Medium,Medium,Offline Only,Online
+30,Female,Low,Suburban,6,106,Electronics,4,Online,TRUE,UPI,FALSE,Evening,Regular,12,4,FALSE,FALSE,Low,High,Offline Only,Online
+23,Male,Low,Urban,12,738,Furniture,6,Online,TRUE,Credit Card,FALSE,Afternoon,Summer Sale,8,8,TRUE,TRUE,High,Medium,Offline Only,Offline
+44,Male,High,Suburban,12,106,Furniture,2,Offline,FALSE,Debit Card,FALSE,Evening,Summer Sale,10,2,TRUE,TRUE,High,Medium,Offline Only,Offline
+44,Male,Medium,Suburban,19,845,Fashion,2,Online,FALSE,Debit Card,TRUE,Morning,Black Friday,8,3,FALSE,TRUE,Medium,Medium,Offline Only,Online
+24,Female,Low,Suburban,7,786,Beauty Products,3,Offline,FALSE,Digital Wallet,FALSE,Evening,Cyber Monday,15,7,FALSE,FALSE,Low,Low,Online Only,Online
+36,Female,Low,Urban,12,400,Groceries,8,Online,TRUE,UPI,TRUE,Evening,Cyber Monday,8,5,TRUE,TRUE,High,Medium,Offline Only,Online
+38,Female,High,Rural,8,907,Electronics,9,Offline,FALSE,Cash,TRUE,Morning,Regular,15,8,FALSE,TRUE,Medium,Medium,Offline Only,Online
+24,Female,High,Suburban,8,549,Groceries,10,Offline,FALSE,Debit Card,FALSE,Evening,Holiday Weekend,11,5,TRUE,FALSE,Medium,Low,Offline Only,Offline
+30,Female,High,Rural,14,939,Beauty Products,9,Online,FALSE,Cash,FALSE,Morning,Cyber Monday,11,7,FALSE,TRUE,High,Low,Offline Only,Offline
+20,Male,Low,Rural,13,304,Home Appliances,1,Offline,FALSE,Digital Wallet,FALSE,Morning,Black Friday,2,3,TRUE,FALSE,Low,Low,Online Only,Offline
+39,Male,Medium,Rural,3,703,Electronics,3,Offline,FALSE,Debit Card,TRUE,Afternoon,Holiday Weekend,15,6,TRUE,TRUE,Medium,High,Offline Only,Online
+50,Male,Medium,Urban,11,486,Groceries,2,Online,TRUE,Debit Card,FALSE,Afternoon,Cyber Monday,9,7,TRUE,FALSE,High,Low,Offline Only,Online
+21,Female,High,Rural,14,327,Beauty Products,4,Online,FALSE,Credit Card,FALSE,Morning,Regular,2,7,FALSE,FALSE,High,High,Online Only,Offline
+18,Male,High,Urban,17,370,Beauty Products,9,Offline,TRUE,Digital Wallet,TRUE,Morning,Holiday Weekend,12,6,FALSE,TRUE,High,Low,Online Only,Online
+35,Female,High,Urban,19,679,Fashion,4,Online,FALSE,Debit Card,FALSE,Afternoon,New Year Sale,2,3,TRUE,TRUE,Low,Low,Offline Only,Online
+37,Female,High,Rural,18,438,Home Appliances,3,Online,TRUE,UPI,TRUE,Evening,Black Friday,3,3,TRUE,FALSE,Low,Low,Online Only,Offline
+40,Male,Medium,Suburban,7,643,Fashion,5,Offline,TRUE,Debit Card,FALSE,Afternoon,Summer Sale,14,2,FALSE,FALSE,Low,High,Offline Only,Online
+50,Female,Low,Suburban,9,134,Groceries,9,Offline,FALSE,Digital Wallet,FALSE,Evening,Cyber Monday,4,2,FALSE,TRUE,High,Medium,Offline Only,Offline
+48,Female,High,Rural,13,805,Beauty Products,3,Online,FALSE,UPI,TRUE,Morning,New Year Sale,7,7,FALSE,TRUE,Low,Medium,Online Only,Online
+30,Female,Low,Suburban,3,459,Beauty Products,7,Online,TRUE,Cash,TRUE,Morning,New Year Sale,1,1,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+40,Male,High,Rural,20,938,Furniture,8,Online,FALSE,Debit Card,TRUE,Afternoon,Regular,2,5,TRUE,TRUE,Low,Low,Offline Only,Offline
+19,Female,High,Urban,13,501,Fashion,4,Offline,FALSE,UPI,TRUE,Evening,Summer Sale,5,5,FALSE,TRUE,Low,High,Offline Only,Online
+27,Male,Low,Suburban,10,232,Fashion,9,Online,TRUE,Cash,TRUE,Evening,Black Friday,12,4,FALSE,FALSE,High,High,Online Only,Offline
+27,Female,Low,Rural,20,362,Groceries,7,Offline,FALSE,UPI,FALSE,Afternoon,New Year Sale,1,1,FALSE,TRUE,Medium,High,Offline Only,Online
+26,Female,Low,Rural,11,503,Electronics,6,Offline,TRUE,Credit Card,TRUE,Afternoon,Holiday Weekend,13,3,TRUE,TRUE,Low,Medium,Offline Only,Offline
+27,Female,Medium,Suburban,13,845,Beauty Products,5,Offline,TRUE,Digital Wallet,FALSE,Afternoon,Summer Sale,13,1,TRUE,FALSE,Medium,Low,Online Only,Online
+48,Female,Low,Suburban,20,477,Furniture,7,Online,TRUE,Cash,FALSE,Afternoon,Black Friday,9,1,FALSE,TRUE,Medium,Medium,Offline Only,Online
+31,Male,Medium,Rural,14,993,Fashion,5,Online,FALSE,UPI,FALSE,Morning,Black Friday,2,4,TRUE,TRUE,Medium,Medium,Offline Only,Offline
+19,Male,Medium,Suburban,8,824,Electronics,7,Online,TRUE,Digital Wallet,FALSE,Morning,Holiday Weekend,12,7,TRUE,TRUE,Medium,Low,Offline Only,Online
+32,Female,High,Suburban,14,551,Groceries,4,Online,TRUE,Credit Card,TRUE,Morning,New Year Sale,8,6,FALSE,TRUE,Low,Medium,Online Only,Online
+29,Female,Medium,Suburban,5,678,Groceries,5,Online,FALSE,Digital Wallet,FALSE,Afternoon,Summer Sale,14,5,TRUE,TRUE,Low,High,Online Only,Offline
+20,Female,Low,Urban,15,930,Groceries,5,Offline,FALSE,Cash,FALSE,Evening,Summer Sale,12,6,TRUE,TRUE,Medium,Medium,Online Only,Online
+44,Male,Low,Urban,16,494,Fashion,2,Online,FALSE,UPI,FALSE,Morning,Regular,5,4,TRUE,TRUE,Medium,High,Online Only,Online
+52,Male,High,Urban,16,284,Furniture,10,Offline,FALSE,Credit Card,TRUE,Evening,Holiday Weekend,13,2,TRUE,TRUE,Medium,Low,Online Only,Online
+19,Male,Medium,Suburban,12,217,Home Appliances,4,Offline,FALSE,Debit Card,FALSE,Evening,Regular,14,6,FALSE,TRUE,Low,Low,Offline Only,Online
+52,Male,Medium,Suburban,20,907,Home Appliances,4,Offline,TRUE,Debit Card,TRUE,Evening,New Year Sale,6,1,FALSE,FALSE,Low,Low,Offline Only,Offline
+43,Female,High,Urban,6,167,Furniture,10,Online,FALSE,Debit Card,TRUE,Evening,Regular,5,7,TRUE,FALSE,Medium,High,Offline Only,Offline
+21,Female,Medium,Suburban,17,942,Home Appliances,9,Offline,TRUE,Credit Card,FALSE,Afternoon,Regular,7,5,TRUE,FALSE,Medium,Low,Online Only,Online
+48,Male,High,Rural,4,273,Beauty Products,10,Offline,TRUE,UPI,FALSE,Morning,Regular,10,2,FALSE,TRUE,Low,Medium,Online Only,Online
+19,Male,Low,Rural,12,987,Electronics,5,Online,FALSE,UPI,FALSE,Evening,Regular,11,4,FALSE,FALSE,Low,Low,Offline Only,Offline
+45,Female,Medium,Suburban,12,313,Beauty Products,2,Offline,TRUE,Debit Card,FALSE,Evening,Holiday Weekend,1,6,TRUE,FALSE,Low,High,Offline Only,Online
+52,Female,Medium,Urban,8,375,Groceries,2,Online,TRUE,Credit Card,FALSE,Evening,Black Friday,12,4,TRUE,TRUE,Low,Medium,Online Only,Offline
+29,Male,Medium,Suburban,4,987,Fashion,4,Online,TRUE,Cash,TRUE,Evening,Cyber Monday,5,7,FALSE,FALSE,Low,Low,Offline Only,Online
+22,Male,Medium,Suburban,8,361,Beauty Products,4,Offline,FALSE,Debit Card,TRUE,Evening,Cyber Monday,5,6,FALSE,TRUE,Medium,Medium,Offline Only,Online
+38,Male,Low,Suburban,11,433,Fashion,2,Offline,TRUE,Digital Wallet,FALSE,Morning,New Year Sale,4,8,FALSE,FALSE,Low,Low,Offline Only,Offline
+30,Female,Low,Rural,15,574,Groceries,7,Offline,TRUE,Debit Card,FALSE,Evening,Black Friday,3,6,TRUE,TRUE,Medium,High,Online Only,Offline
+29,Male,Low,Suburban,6,416,Fashion,10,Online,TRUE,UPI,TRUE,Morning,Regular,1,4,FALSE,TRUE,Medium,Low,Offline Only,Offline
+39,Male,Low,Urban,11,635,Fashion,2,Online,FALSE,Debit Card,FALSE,Evening,Cyber Monday,1,1,TRUE,TRUE,Low,High,Offline Only,Offline
+19,Male,Low,Rural,18,463,Home Appliances,10,Offline,FALSE,Debit Card,TRUE,Afternoon,New Year Sale,7,3,FALSE,FALSE,Medium,Low,Offline Only,Online
+52,Female,Low,Urban,14,964,Electronics,2,Offline,FALSE,Cash,TRUE,Morning,Regular,12,5,TRUE,TRUE,High,Medium,Offline Only,Offline
+18,Male,High,Urban,7,527,Groceries,3,Online,TRUE,Digital Wallet,TRUE,Morning,Holiday Weekend,15,8,FALSE,FALSE,High,Medium,Online Only,Offline
+51,Female,Low,Suburban,13,581,Groceries,1,Offline,TRUE,UPI,FALSE,Afternoon,Regular,3,5,TRUE,FALSE,Medium,Low,Offline Only,Online
+26,Male,High,Urban,14,316,Fashion,9,Online,FALSE,Digital Wallet,TRUE,Morning,Summer Sale,4,5,TRUE,TRUE,High,Low,Online Only,Online
+33,Male,Low,Urban,14,899,Fashion,3,Online,FALSE,Credit Card,FALSE,Morning,Summer Sale,2,7,TRUE,FALSE,Medium,Medium,Online Only,Online
+42,Male,High,Rural,13,422,Home Appliances,5,Offline,TRUE,UPI,TRUE,Afternoon,Holiday Weekend,7,7,TRUE,FALSE,High,Medium,Offline Only,Online
+48,Male,Medium,Urban,7,281,Fashion,2,Offline,FALSE,UPI,TRUE,Evening,Cyber Monday,15,2,FALSE,TRUE,Medium,Medium,Offline Only,Online
+44,Female,High,Rural,16,464,Beauty Products,3,Online,FALSE,Cash,FALSE,Morning,Holiday Weekend,8,5,FALSE,TRUE,Low,High,Online Only,Offline
+52,Male,Low,Urban,8,307,Furniture,10,Offline,FALSE,Digital Wallet,FALSE,Evening,Cyber Monday,1,1,FALSE,TRUE,High,Medium,Offline Only,Offline
+52,Female,High,Rural,12,798,Home Appliances,4,Online,TRUE,Credit Card,FALSE,Morning,Cyber Monday,12,2,FALSE,FALSE,High,High,Offline Only,Online
+49,Male,Low,Urban,19,700,Fashion,9,Offline,TRUE,Digital Wallet,FALSE,Morning,Regular,10,8,TRUE,TRUE,Medium,Low,Online Only,Offline
+42,Female,Medium,Rural,10,142,Home Appliances,10,Offline,FALSE,Debit Card,TRUE,Morning,New Year Sale,8,7,FALSE,TRUE,High,Medium,Online Only,Offline
+43,Female,Medium,Suburban,5,429,Electronics,10,Offline,TRUE,Digital Wallet,FALSE,Afternoon,New Year Sale,9,5,TRUE,FALSE,Low,Low,Offline Only,Online
+44,Male,High,Urban,11,871,Home Appliances,7,Offline,FALSE,Cash,FALSE,Afternoon,Regular,4,8,TRUE,FALSE,Medium,Low,Online Only,Offline
+42,Female,Medium,Urban,20,609,Furniture,6,Offline,TRUE,UPI,TRUE,Afternoon,Summer Sale,1,2,FALSE,FALSE,Low,Low,Online Only,Online
+48,Male,High,Suburban,4,519,Furniture,1,Online,TRUE,Debit Card,TRUE,Afternoon,Black Friday,8,2,TRUE,FALSE,High,Low,Online Only,Online
+35,Male,High,Rural,3,870,Groceries,10,Online,FALSE,Debit Card,FALSE,Evening,Black Friday,11,1,FALSE,FALSE,Medium,High,Online Only,Offline
+21,Male,Low,Urban,19,573,Fashion,10,Online,FALSE,Credit Card,FALSE,Afternoon,Summer Sale,7,7,FALSE,TRUE,High,Medium,Online Only,Offline
+23,Male,High,Rural,14,544,Home Appliances,7,Offline,FALSE,UPI,TRUE,Evening,New Year Sale,5,3,TRUE,TRUE,Low,High,Online Only,Offline
+51,Female,Medium,Suburban,3,935,Furniture,10,Online,FALSE,Digital Wallet,FALSE,Evening,Black Friday,6,8,FALSE,FALSE,High,Low,Offline Only,Offline
+42,Female,Medium,Urban,20,528,Beauty Products,5,Online,TRUE,Digital Wallet,FALSE,Afternoon,Cyber Monday,13,4,FALSE,TRUE,High,Low,Offline Only,Offline
+36,Female,Low,Suburban,20,1000,Home Appliances,5,Offline,TRUE,Cash,FALSE,Morning,Summer Sale,14,6,TRUE,TRUE,Low,Low,Offline Only,Online
+35,Male,Medium,Urban,14,185,Fashion,1,Offline,FALSE,Cash,TRUE,Afternoon,Holiday Weekend,15,6,TRUE,FALSE,Low,Medium,Offline Only,Offline
+21,Male,Low,Urban,9,517,Fashion,1,Online,TRUE,Debit Card,TRUE,Afternoon,Summer Sale,7,2,TRUE,TRUE,High,Low,Online Only,Offline
+31,Female,Low,Suburban,12,877,Home Appliances,6,Offline,TRUE,Credit Card,TRUE,Morning,Cyber Monday,9,8,FALSE,FALSE,Medium,High,Offline Only,Online
+29,Female,High,Urban,20,354,Fashion,10,Offline,TRUE,Digital Wallet,TRUE,Evening,Summer Sale,3,8,FALSE,TRUE,High,Medium,Online Only,Offline
+42,Male,Low,Suburban,8,598,Beauty Products,10,Offline,TRUE,Digital Wallet,TRUE,Morning,Summer Sale,11,6,FALSE,TRUE,Medium,High,Online Only,Offline
+28,Female,Low,Urban,10,522,Home Appliances,8,Online,TRUE,Digital Wallet,FALSE,Afternoon,Summer Sale,13,1,TRUE,TRUE,High,Low,Online Only,Online
+47,Male,Low,Suburban,5,295,Groceries,5,Online,TRUE,Cash,FALSE,Evening,Cyber Monday,2,8,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+23,Male,High,Suburban,19,934,Groceries,3,Offline,FALSE,UPI,TRUE,Afternoon,Black Friday,1,3,FALSE,FALSE,Medium,High,Online Only,Online
+43,Male,High,Rural,11,603,Electronics,2,Offline,FALSE,UPI,FALSE,Morning,New Year Sale,6,4,FALSE,FALSE,Medium,Medium,Offline Only,Offline
+51,Male,High,Suburban,11,339,Furniture,6,Offline,TRUE,Debit Card,FALSE,Morning,Regular,13,7,TRUE,TRUE,Low,Medium,Online Only,Offline
+47,Female,Medium,Urban,17,522,Home Appliances,6,Offline,FALSE,Digital Wallet,FALSE,Morning,Cyber Monday,12,8,TRUE,TRUE,High,High,Online Only,Online
+33,Male,Low,Urban,11,138,Fashion,6,Offline,TRUE,Digital Wallet,TRUE,Afternoon,Holiday Weekend,2,1,FALSE,TRUE,Low,Low,Online Only,Offline
+23,Male,High,Rural,7,636,Electronics,1,Online,TRUE,Debit Card,FALSE,Morning,Cyber Monday,2,2,TRUE,FALSE,High,Low,Offline Only,Online
+40,Female,High,Urban,3,801,Electronics,9,Online,TRUE,Debit Card,TRUE,Morning,Regular,13,8,FALSE,TRUE,Medium,Low,Online Only,Online
+51,Male,High,Rural,4,463,Fashion,5,Online,FALSE,Debit Card,FALSE,Evening,Summer Sale,9,1,TRUE,FALSE,Medium,Medium,Online Only,Offline
+26,Female,High,Urban,10,730,Furniture,9,Online,TRUE,Debit Card,TRUE,Evening,Cyber Monday,15,5,FALSE,TRUE,Low,High,Offline Only,Offline
+45,Female,Low,Suburban,7,112,Home Appliances,3,Online,FALSE,Debit Card,TRUE,Morning,Cyber Monday,1,6,FALSE,TRUE,High,High,Offline Only,Online
+23,Male,Low,Urban,12,228,Groceries,8,Online,FALSE,Debit Card,FALSE,Afternoon,New Year Sale,6,4,FALSE,FALSE,Low,Low,Online Only,Offline
+49,Female,Medium,Rural,13,275,Home Appliances,6,Offline,FALSE,Digital Wallet,FALSE,Morning,Cyber Monday,2,4,FALSE,FALSE,Medium,Medium,Online Only,Offline
+45,Male,High,Rural,18,321,Home Appliances,10,Offline,TRUE,Debit Card,TRUE,Afternoon,Holiday Weekend,10,1,TRUE,TRUE,Low,High,Online Only,Online
